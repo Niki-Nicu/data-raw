@@ -17,40 +17,18 @@ nlu:
     given below) in its meeting held on 29th May, 2020 and approved for forwarding
     to IRC for consideration by the Highways Specification and Standards Committee
     after modifications based on comments of the members.'
-- intent: popli,_s
-  examples: '- Popli, S. K.'
-- intent: spl
-  examples: '- Spl. Comm. of Police (Traffic) Delhi'
-- intent: corresponding_members
-  examples: '- Corresponding Members'
-- intent: gangopadhyay,_dr
-  examples: "- Gangopadhyay, Dr. S.\tVenkatesha, M. C."
-- intent: ex-officio_members
-  examples: '- Ex-Officio Members'
-- intent: "president,_irc\t(joshi,_c"
-  examples: "- President, IRC\t(Joshi, C. P.)"
-- intent: "director_general_(rd)_&\t(pande"
-  examples: "- Director General (RD) &\t(Pandey, I. K.) Spl. Secretary, MoRTH"
-- intent: "secretary_general,_irc\t(nirmal"
-  examples: "- Secretary General, IRC\t(Nirmal, S. K.)"
 - intent: the_highways_specifications_an
   examples: '- The Highways Specifications and Standards Committee approved the draft
     in its meeting held on 12th September 2020. The code was modified considering
     the HSS committee suggestions by the H-1 Committee and approved for forwarding
     to IRC for consideration by the Executive Committee. Subsequently the draft was
     ----- by the Executive Committee on   and Council in its meeting held at ----.'
-- intent: general
-  examples: '- General'
-- intent: purpose_of_road_signs
-  examples: '- Purpose of Road Signs'
 - intent: the_purpose_of_the_road_signs
   examples: '- The purpose of the road signs is to promote road safety and efficiency
     by providing for the orderly movement of all types of road users moving on various
     categories of roads in both urban and non-urban areas. Road signs notify road
     users of regulations and provide warning as well as guidance needed for safe,
     uniform and efficient operation.'
-- intent: principles_of_road_signs
-  examples: '- Principles of Road Signs'
 - intent: this_code_contains_the_basic_p
   examples: '- This Code contains the basic principles that govern the design and
     use of road signs for all categories of roads including expressways open to public
@@ -3652,3 +3630,4 @@ nlu:
   examples: '- Recording Format for Periodic Testing of'
 - intent: retro_reflectivity
   examples: '- Retro Reflectivity'
+
