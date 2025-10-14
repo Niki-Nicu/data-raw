@@ -1,0 +1,3477 @@
+version: '3.1'
+intents:
+- 1_transport_planning_and_traff
+- popli__s
+- spl
+- corresponding_members
+- gangopadhyay__dr
+- ex_officio_members
+- president__irc__joshi__c
+- director_general__rd_____pande
+- secretary_general__irc__nirmal
+- the_highways_specifications_an
+- general
+- purpose_of_road_signs
+- the_purpose_of_the_road_signs
+- principles_of_road_signs
+- this_code_contains_the_basic_p
+- to_be_effective__a_road_sign_s
+- fulfill_a_need_
+- command_attention_
+- convey_a_clear_and_simple_mean
+- command_respect_from_road_user
+- give_adequate_time_for_respons
+- design__placement__operation_
+- placement_and_operation_of_roa
+- placement_of_road_signs_should
+- road_signs_or_their_supports__
+- road_signs_should_be_placed_an
+- maintenance_of_road_signs
+- maintenance_of_road_signs_shou
+- at_regular_periodic_intervals_
+- uniformity_of_road_signs
+- uniformity_of_signs_simplifies
+- traffic_engineering_study
+- the_decision_to_use_a_particul
+- authorities_with_responsibilit
+- classification_of_road_signs
+- road_signs_are_classified_unde
+- mandatory___regulatory_signs
+- all_mandatory_or_regulatory_si
+- with_red_circular_ring_and_dia
+- figure_3
+- mandatory_signs_giving_positiv
+- control_signs_are_to_compulsor
+- mandatory_and_regulatory_signs
+- cautionary___warning_signs
+- cautionary___warning_signs_are
+- need_for_special_caution_by_ro
+- informatory___guide_signs
+- all_guide_signs_and_informator
+- information_signs_in_rectangul
+- road_classifications
+- generally__roads_in_india_are
+- expressways
+- national_highways
+- state_highways
+- major_district_roads
+- rural_roads__other_district_ro
+- urban__city__roads
+- the_colour_combinations_for_di
+- siting_of_signs_with_respect_t
+- the_road_signs_are_the_means_o
+- on_all_roads_with_or_without_k
+- gantry_mounted_signs_should_be
+- on_kerbed_roads__the_bottom_ed
+- where_in_the_opinion_of_the_co
+- the_signs_shall_be_so_placed_t
+- unhindered_movement_of_pedestr
+- on_multi_lane_roads__the_signs
+- traffic_volume_at_or_near_capa
+- complex_interchange_design
+- three_or_more_lanes_in_each_di
+- restricted_visibility
+- high_speed_traffic
+- insufficient_space_for_ground
+- large_percentage_of_commercial
+- closely_spaced_interchanges
+- from_safety_and_aesthetic_stan
+- mandatory_signs__e
+- table_4
+- figure_4
+- refer_table_4
+- orientation_of_signs
+- the_signs_unless_otherwise_sta
+- carriageway_so_as_to_give_bett
+- where_light_reflection_from_th
+- sign_faces_are_normally_vertic
+- figure_5
+- material_for_signs
+- the_various_materials_and_fabr
+- concrete
+- concrete_shall_be_of_m25_grade
+- reinforcing_steel
+- reinforcing_steel_shall_confor
+- bolts__nuts_and_washers
+- high_strength_bolts_shall_conf
+- plates_and_supports
+- plates_and_support_sections_fo
+- substrate
+- the_substrate_shall_be_either
+- aluminium
+- aluminium_sheets_used_for_sign
+- aluminium_composite_materials
+- acm_sheets_used_for_sign_board
+- plate_thickness
+- shoulder_mounted_ground_signs
+- table_6
+- retro_reflective_sheeting
+- the_retro_reflective_sheeting
+- class_a_sheeting____engineerin
+- class_b_sheeting___high_intens
+- class_c_sheeting____all_micro
+- selection_of_sheeting
+- the_performance_characteristic
+- retro_reflection_means_the_ref
+- observation_angle_____is_the_a
+- figure_6
+- entrance_angle_____means_the_a
+- coefficient_of_retro_reflectio
+- formula_retro_reflection
+- explain_retro_reflection_coefficient
+- though_the_sheeting_as_per_ast
+- for_work_zone__type_iv_can
+- optional__can_be_used_base
+- class_a__engineering_grade_she
+- type_i_engineering_grade_sheet
+- this_sheeting_shall_be_of_encl
+- at_the_end_of_5_years__the_she
+- type_ii_super_engineering_grad
+- class_b__high_intensity_grade
+- type_iii_high_intensity_grade
+- this_high_intensity_retro_refl
+- at_the_end_of_7_years__the_she
+- minimum_coefficient_of_retro_r
+- values_for_0
+- type_iv_high_intensity_micro_p
+- this_sheeting_shall_be_of_high
+- class_c__micro_prismatic_grade
+- type_viii_micro_prismatic_grad
+- retro_reflective_sheeting_is_t
+- at_the_end_of_10_years__the_sh
+- type_ix_micro_prismatic_grade
+- minimum_co_efficient_of_retro_
+- type_xi_micro_prismatic_grade
+- adhesives
+- the_sheeting_shall_have_a_pres
+- fabrication
+- surface_to_be_reflectorized_sh
+- mm__where_screen_printing_with
+- be_used
+- messages___borders
+- the_messages__legends__letters
+- in_the_case_of_screen_printed
+- initial_colour_shall_meet_the
+- sheeting_manufacturer
+- warranty_and_durability
+- the_contractor_shall_obtain_fr
+- posts_and_mountings_for_signs
+- the_traffic_signs_shall_be_mou
+- all_components_of_signs_and_su
+- except_in_the_case_of_railway
+- the_signs_shall_be_fixed_to_th
+- for_overhead_signs__the_suppor
+- colour_for_signs
+- signs_shall_be_provided_with_r
+- the_colour_of_the_material_sha
+- the_colours_shall_be_durable_a
+- the_mandatory_and_warning_sign
+- colour_pattern_for_direction_i
+- the_colours_chosen_for_informa
+- table_8
+- colour_specification_limits_da
+- a_the_four_pairs_of_chromatici
+- b_the_saturation_limit_of_gree
+- colour_specification_limits_n
+- performance_defined_for_the_m
+- size_of_signs
+- as_a_general_rule__there_shall
+- general_dimensions_of_differen
+- definition_plates_supplement
+- where_the_competent_authority
+- visibility_of_signs
+- in_order_to_make_signs_more_vi
+- it_is_essential_that_drivers_a
+- backing_board_and_use_of_fluor
+- design
+- to_improve_conspicuity_against
+- square_in_shape
+- itself_be_provided_with_a_bord
+- there_are_potential_disadvanta
+- figure_11
+- backing_boards
+- warrants_for_using_backing_boa
+- when_all_other_normal_treatmen
+- size_of_letters
+- letter_size_should_be_chosen_c
+- letter_size_on_definition_plat
+- table_12
+- note__where_there_are_site_spa
+- notes_
+- for_grade_separated_junction_
+- the__x__height_is_the_height_o
+- case_shall_be_1
+- in_columns_2__3__7__8__10_and
+- in_columns_4_and_9_of_table_12
+- in_columns_5_and_6_table_12
+- reassurance_signs_shall_normal
+- columns10__11_and_12_of_table
+- maintenance_of_signs
+- prior_to_installing_any_road_s
+- a_reference_number_along_with
+- all_signs_shall_be_visually_in
+- the_authorities_responsible_fo
+- in_addition_to_the_painting_of
+- mandatory__regulatory_signs
+- the_detailed_dimensioned_drawi
+- _stop__and__give_way__signs__r
+- _prohibitory__signs
+- _no_parking__and__no_stopping_
+- _speed_limit__and__vehicle_con
+- _restriction_ends__sign__and
+- _compulsory_direction_control_
+- regulatory_signs_that_indicate
+- where_the_restriction__require
+- at_a_junction_where_traffic_tu
+- at_a_junction_where_the_carria
+- from_the_center_of_most_disadv
+- stop_sign
+- purpose
+- this_is_for_indicating_priorit
+- combination_with_markings
+- the_stop_sign_shall_always_be
+- size__shape_and_colour
+- the_sign__shown_in_fig
+- table_14
+- warrants_for_installation
+- the_sign_should_be_used_on_a_y
+- minor_road_at_its_intersection
+- x
+- with_a_major_road_where
+- conditions_are_considered_to_b
+- restricted__visibility___bad_a
+- figure_14
+- records
+- note__1__the_visibility_distan
+- above_the_central_line_of_the
+- _2__x___3_m_for_side_roads_wit
+- location
+- the_sign_shall_be_installed_on
+- the_site_conditions_prevent_a
+- easily_seen__it_should_be_plac
+- give_way_sign
+- give_way_sign_shall_be_used_to
+- the_sign_shall_be_an_equilater
+- the_sign_shall_be_used_on_all
+- in_non_urban_areas_at_all_junc
+- in_urban_areas_generally_at_ju
+- the_sign_shall_be_located_in_a
+- say_at_a_distance_of_1
+- give_way_to_buses_exiting_bus
+- the_sign_shall_be_used_to_info
+- prohibitory_signs
+- these_signs_generally_give_ins
+- the_signs_shall_be_of_circular
+- bullock_carts_prohibited
+- the_sign_shall_be_erected_on_e
+- _prohibitory_signs_in_conjunct
+- bullock_carts_and_hand_carts_p
+- hand_carts_prohibited
+- tongas_prohibited
+- _fig
+- horse_riding_prohibited
+- the_sign_shall_be_used_where_h
+- towed_caravan_not_allowed
+- the_sign_shall_be_used_at_the
+- buses_prohibited
+- the_sign_shall_be_used_where_b
+- cars_prohibited
+- the_sign_shall_be_used_where_e
+- trucks_prohibited
+- tractor_prohibited
+- construction_vehicles_prohibit
+- articulated_vehicles_movement
+- the_sign_shall_be_used_for_pro
+- two_wheelers_prohibited
+- the_sign_shall_be_erected_on_s
+- cycles_prohibited
+- pedestrians_prohibited
+- blowing_horn_prohibited
+- the_sign_shall_be_used_on_stre
+- straight_prohibited__no_entry
+- the_signs_shall_be_located_at
+- roadway__facing_traffic_that_m
+- one_way
+- the_sign_shall_be_located_at_t
+- left___right_turn_prohibited
+- at_unsignalized_intersection_w
+- overtaking_prohibited
+- the_sign__fig
+- u_turn_prohibited
+- right_turn___u_turn_prohibited
+- the_sign_shall_be_used_where_r
+- free_left_prohibited_on_signal
+- the_sign_shall_be_placed_at_le
+- priority_to_vehicles_from_oppo
+- no_stopping_and_no_standing_si
+- the_signs__fig
+- combination_with_definition_pl
+- there_shall_be_a_definition_pl
+- the_days_of_the_week_during_wh
+- the_hours_of_the_day_during_wh
+- the_distance_up_to_which_the_p
+- exceptions_granted_for_certain
+- in_addition__the_definition_pl
+- location_of__no_standing__sign
+- location_of__no_stopping__and
+- no_parking_signs_in_urban_area
+- in_urban_areas__the__no_parkin
+- parking_not_allowed_on_footpat
+- the_sign_is_to_be_erected_wher
+- parking_not_allowed_on_half_of
+- speed_limit_and_vehicle_contro
+- these_signs_shall_be_erected_a
+- axle_load_limit
+- the_sign_shall_be_erected_wher
+- definition_plate_with__weak_br
+- height_limit
+- the_sign_shall_be_erected_in_a
+- length_limit
+- load_limit
+- width_limit
+- maximum_speed_limit
+- where_different_speed_limits_a
+- speed_limit_repeater_and_termi
+- the_speed_limit_sign_in_cities
+- 1terminal_sign_is_used_to_indi
+- _for_rural_highways__the_conse
+- 2_5_km_if_placed_on
+- gateway_signs
+- gateway_signs__figure_14
+- stop_for_police_check
+- restriction_ends_sign__fig
+- it_shall_be_circular_with_whit
+- this_sign_shall_indicate_the_p
+- compulsory_direction_control_a
+- these_signs_shall_be_circular
+- __in_conjunction_with_traffic
+- compulsory_ahead__compulsory_a
+- the_signs_in_fig
+- compulsory_turn_left_right
+- 14_49_as_appropriate_should_be
+- compulsory_keep_left___right
+- the_sign_in_fig
+- pass_either_side
+- the__pass_either_side__sign_as
+- minimum_speed_limit
+- where_engineering_judgment_det
+- compulsory_cycle_track_cycles
+- the_sign_shall_notify_cyclists
+- compulsory_cyclist_and_pedestr
+- the_sign_shall_be_used_to_segr
+- pedestrians_only
+- the_sign_shall_mean_that_only
+- compulsory_snow_chain
+- the_sign_shall_be_used_in_hill
+- busway_buses_only
+- compulsory_sound_horn
+- the_sign_shall_mean_that_the_m
+- the_signs_shall_be_in_the_shap
+- table_15
+- location_and_mounting
+- warning_signs_should_not_be_mo
+- left___right_curve
+- these_signs_are_to_be_used__wh
+- 15_65__the_left_hand_curve
+- curves_with_side_road_or_cross
+- right___left_hairpin_bend
+- the_sign_should_be_used_to_mar
+- right___left_reverse_bend
+- the_sign_should_be_erected_whe
+- series_of_bends
+- this_sign_should_be_used_to_ca
+- 270_degree_loop
+- the_sign_shall_be_used_to_caut
+- side_road
+- the_sign_should_be_erected__fi
+- y_intersection
+- the_sign_should_be_erected_on
+- cross_road
+- the_sign_should_be_erected_in
+- together_with_restricted_sight
+- roundabout
+- the_sign_should_be_used_where
+- traffic_signals
+- this_sign_can_be_used_to_cauti
+- t_intersection
+- major_road_ahead
+- staggered_intersection
+- the_sign_should_be_used_to_ind
+- merging_traffic_ahead
+- this_sign_is_posted_in_situati
+- narrow_road_ahead
+- road_widens
+- narrow_bridge_ahead
+- steep_ascent
+- the_sign_should_be_used_30_m_b
+- steep_descent
+- reduced_carriageway
+- this_sign_is_used_to_caution_t
+- start_of_dual_carriageway
+- this_sign_is_posted_when_a_sin
+- end_of_dual_carriageway
+- this_sign_is_posted_when_dual
+- gap_in_median
+- the_sign_should_be_installed_a
+- pedestrian_crossing
+- 15_33___supplementary_plate_indicating
+- school_ahead
+- built_up_area
+- two_way_operation
+- two_way_traffic_on_cross_road
+- lane_closures
+- traffic_diversion_on_dual_carr
+- this_sign_is_used_to_warn_the
+- people_at_work
+- the_sign_should_be_displayed_o
+- be_yellow_as_per_irc__sp_55
+- danger_warning_sign
+- deaf_or_blind_persons_likely_o
+- this_sign_is_posted_only_near
+- cycle_crossing
+- cycle_route_ahead__warning_for
+- dangerous_dip
+- speed_breaker
+- this_sign_should_be_used_to_wa
+- rumble_strip
+- the_sign_should_be_posted_at_a
+- rough_road
+- soft_verges
+- the_sign_should_be_used_toward
+- loose_gravel
+- the_sign_should_be_used_on_sec
+- slippery_road
+- the_sign_should_be_erected_to
+- slippery_road_because_of_ice
+- opening_or_swing_bridge
+- overhead_cable
+- play_ground_ahead
+- quay_side_or_river_bank
+- barrier
+- rolling_terrain_and_30_to_60_m
+- _barrier_ahead__may_be_replace
+- sudden_side_winds
+- tunnel_ahead_warning
+- the_sign_is_posted_in_situatio
+- ferry
+- the_sign_is_intended_to_warn_t
+- tram_crossing
+- falling_rocks
+- cattle_crossing
+- wild_animals_likely_to_be_on_r
+- queues_likely_ahead
+- low_flying_aircraft
+- this_sign_is_for_use_on_roads
+- unguarded_railway_crossing
+- the_sign_should_be_used_on_the
+- guarded_railway_crossing
+- the_sign_should_be_used_to_war
+- crash_prone_area_ahead_sign
+- the_sign_should_be_used_on_app
+- u_turn_ahead_sign
+- the_sign_shall_be_placed_about
+- chevron_signs
+- at_the_curved_alignment_of_a_r
+- road_user_always_has_at_least
+- _if_deflection_angle_is_greate
+- depending_upon_the_sharpness_o
+- hazard_marker
+- roadside_hazard_like_bridges_
+- informatory_signs
+- the_signs_illustrated_in_this
+- sizes_the_symbols_should_be_pr
+- the_signs_are_classified_under
+- direction_and_place_identifica
+- facility_information_signs
+- other_useful_information_signs
+- parking_signs__and
+- flood_gauge
+- the_following_are_the_function
+- it_should_give_drivers_advance
+- it_should_indicate_the_type_of
+- it_should_inform_them_of_the_d
+- it_should_identify_the_route_a
+- shape__colour_and_language_of
+- these_signs_shall_be_rectangul
+- advance_direction_signs
+- the_sign_indicates_the_routes
+- 16_02_may_be_employed__in
+- table_16
+- advance_direction_signs_shall
+- use_of_symbols
+- the_use_of_symbols_is_desirabl
+- airports
+- ports_and_docks
+- industrial_zones
+- hospitals
+- border_crossing_points
+- parking_areas__rest_areas
+- railway_stations
+- park_and_ride_facilities
+- filling_stations
+- service_areas_facilities__toil
+- entry_or_restriction_of_vehicl
+- expressway_symbol
+- tourist_attractions_symbols__v
+- pick_up_and_drop_off
+- map_type_advance_direction_sig
+- map_type_of_sign_is_designed_b
+- in_a_roundabout_junction_sign_
+- where_a_roundabout_is_offset_f
+- siting_of_advance_direction_si
+- junction_reference_point__the
+- in_the_case_of_interchange__th
+- stop_or_give_way_line
+- the_point_at_which_the_carriag
+- the_standard_distances_at_whic
+- for_grade_separated_intersecti
+- stack_type_advance_direction_s
+- stack_type_signs_are_intended
+- both_the_arrow_and_the_panel_a
+- arrows_may_be_vertical_or_hori
+- destination_ahead_with_vertica
+- destination_to_the_left_with_t
+- destination_to_the_right_with
+- destination_sign
+- the_sign_should_be_posted_in_a
+- direction_sign__flag_type_
+- finger_type_signages_shall_be
+- reassurance_sign_or_route_conf
+- siting_of_reassurance_sign
+- it_should_be_placed_60_m_beyon
+- the_names_of_the_destination_p
+- main_carriageway
+- place_identification
+- truck_lay_by
+- along_the_highways__the_provis
+- toll_booth_ahead
+- the_sign_is_used_to_indicate_t
+- weigh_bridge_ahead
+- gantry_mounted_signs
+- the_gantry_mounted_signs_are_m
+- fig
+- tourism_related_signs
+- it_is_recommended_to_install_d
+- tourist_destination_directiona
+- finger_type_way_finding_signs
+- map_boards_at_rest_areas_or_at
+- facility_information_signs_rel
+- development_of_a_hierarchy_of
+- harmonization_of_signs
+- use_of_brown_and_white_colour
+- on_primary_roads_or_access_con
+- advance_direction_signs_for_to
+- tourist_place___city_identific
+- this_sign_can_be_used_on_all_t
+- __monument_as_indicated_in_fig
+- whenever_such_signing_is_propo
+- eating_place
+- light_refreshments
+- resting_place
+- first_aid_post
+- the_sign_should_be_used_to_not
+- toilet
+- filling_station__fuel_pump_
+- hospital
+- emergency_sos_telephone_facili
+- this_sign_shall_be_used_at_reg
+- u_turn_facility
+- this_sign_shall_be_positioned
+- pedestrian_subway
+- to_guide_the_pedestrian_traffi
+- foot_over_bridge
+- it_is_used_to_inform_pedestria
+- chair_lift
+- police_station
+- the_sign_should_be_erected_at
+- repair_facilities
+- railway_station_metro_station_
+- industrial_area
+- cycle_rickshaw_stand
+- taxi_stand
+- auto_rickshaw_stand
+- share_taxi_auto_and_other_info
+- this_sign_will_indicate_the_lo
+- home_zone
+- camp_site
+- airport
+- golf_course
+- national_heritage
+- no_through_road
+- no_through_side_road
+- toll_road_ahead
+- this_sign_shall_provide_inform
+- guide_sign_for_etc_lane
+- this_sign_shall_be_used_to_inf
+- country_border
+- entry_ramp_for_expressway
+- the_sign_is_erected_where_ther
+- exit_ramp_for_expressway
+- this_sign_is_erected_at_entry
+- end_of_expressway
+- this_sign_is_erected_at_the_en
+- bus_stop
+- bus_lane
+- this_sign_is_installed_to_info
+- contra_flow_bus_lane
+- this_sign_is_installed_to_indi
+- cycle_lane
+- this_sign_provides_information
+- contra_flow_cycle_lane
+- holiday_chalets
+- emergency_exit_in_tunnel
+- emergency_helpline_number
+- emergency_helpline_numbers_can
+- emergency_lay_by
+- the_sign_shall_be_placed_near
+- fire_extinguisher
+- this_sign_shall_be_used_near_t
+- rest_and_service_area_signs
+- pedestrian_crossing_informatio
+- this_sign_shall_be_used_at_cri
+- speed_hump___speed_table_infor
+- this_sign_shall_be_installed_a
+- electric_vehicle_charging_stat
+- this_sign_shall_be_installed_n
+- parking_information_signs_and
+- the_shape_and_colour_of_these
+- parking_signs__fig
+- the_parking_sign__which_may_be
+- auto_rickshaw_parking
+- this_sign_will_indicate_auto_r
+- cycle_parking
+- this_sign_will_indicate_cycle
+- cycle_rickshaw_parking
+- scooter_and_motorcycle_parking
+- this_sign_will_indicate_scoote
+- car_taxi_parking
+- this_sign_will_indicate_car_ta
+- park_and_ride
+- pickup_and_drop_point
+- this_sign_shall_be_erected_nea
+- parking_restrictions_signs_for
+- flood_gauge_sign
+- signs_for_persons_with_disabil
+- the_international_symbol_of_ac
+- parking_information
+- the_parking_area_should_be_ind
+- ramped_entrance_to_subway_over
+- these_signs_shall_inform_the_p
+- toilet_facility
+- the_toilet_area_should_be_indi
+- way_finding_sign_for_disabled
+- the_way_finding_sign_should_be
+- enforcement_related_signs
+- these_signs_are_used_where_a_p
+- surveillance_cameras
+- the_signs_given_under_this_sec
+- red_light_violation_detection
+- the_sign_is_to_be_installed_ne
+- most_of_the_road_crashes_assoc
+- stop_sign_violation
+- many_road_crashes_occur_as_a_r
+- speed_camera
+- this_sign_is_to_be_installed_a
+- lane_discipline_information_si
+- vehicle_category_wise_and_spee
+- tow_away_zones
+- tow_away_zones_where_parking_i
+- variable_message_signs
+- variable_message_signs__vms__a
+- displays
+- live_travel_time_between_desti
+- live_traffic_congestion
+- weather_updates
+- alternate_routes
+- pollution_data
+- variable_speed_limits
+- event_notice_and_motorist_inst
+- crash_updates
+- incident_management_via_emerge
+- directional_signs
+- traffic_do_s_and_don_ts
+- warning___public_messages_etc
+- smart_variable_message_signs_s
+- figure_21
+- to_get_the_detailed_specificat
+- route_marker_signs
+- route_marker_signs_are_propose
+- uniform_shape_of_route_markers
+- colour_coded_and_simple_shape
+- prominence_given_to_number_of
+- state_highway_route_marker_sig
+- the_state_highway_route_marker
+- from_the_junction__on_either_s
+- definition_plate
+- when_the_sign_is_erected_in_ad
+- national_highway_route_marker
+- the_national_highway_route_mar
+- the_sign_shall_be_erected_on_n
+- asian_highway_route_marker_sig
+- the_asian_highway_route_marker
+- the_sign_shall_be_erected_on_a
+- expressway_route_marker_sign
+- the_expressway_route_marker_si
+- signs_for_expressways
+- an_expressway_is_a_divided_hig
+- signs_are_designed_so_that_the
+- colour_of_signs
+- the_colour_of_all_type_of_sign
+- format_of_legends_on_overhead
+- the_legend_on_all_signboards_s
+- table_23
+- warrants_for_sign_installation
+- the_siting_of_regulatory_and_w
+- sizes_of_the_signs
+- sizes_of_the_signs_should_be_d
+- siting_of_the_signs_with_respe
+- generally__siting_of_the_signs
+- size_of_letters_should_be_as_p
+- for_supplementary_plates_attac
+- guidelines_for_informatory_sig
+- general_guidelines_given_in_se
+- direction_signs
+- the_direction_signs_should_be
+- exit_direction_signs
+- the_exit_direction_sign_repeat
+- distance_signs
+- distances_to_the_same_destinat
+- signs_for_urban_and_city_roads
+- the_signing_system_for_urban_a
+- the_colour_of_all_types_of_sig
+- table_24
+- the_placement_of_regulatory_an
+- generally__placement_of_the_si
+- other_direction_signs_and_faci
+- signs_like_finger_type_way_fin
+- gantry_mounted_signs_given_in
+- toll_plaza_related_signs
+- these_signs_include_the_inform
+- user_fee_notifications_boards
+- these_include_the_following_bo
+- user_fee_information_board___p
+- user_fee_information_board_in
+- user_fee_concession_informatio
+- exempted_dignitaries_board_in
+- exempted_vehicles_board_in_eng
+- in_case_of_national_highways_
+- no__of_lanes___2_4_6
+- toll_rate_sign_user_fee_inform
+- low_speed___2656_mm_x_2474_mm
+- high_speed___4426_mm_x_4123_mm
+- other_sign_boards_concession_
+- black_spot_related_signs
+- crash_prone_area_informatory_s
+- figure_26
+- sign_plan_examples_for_typical
+- sign_plans_for_some_typical_si
+- sign_plan_for_curve_delineatio
+- ___
+- _30__40__mm
+- 750_mm
+- _900_mm_
+- _1200__mm
+- 900_mm
+- _600_mm_
+- _750_mm_
+- _1200_mm_
+- _1500_mm_
+- fig_14
+- definition_plate_to_fig_14
+- 90_mm
+- 1140_mm
+- 90_mm_90_mm
+- mm
+- 2130_mm
+- 90_mm_90_mm_90_mm
+- 900_mm__600_mm_
+- _10__mm
+- _20__mm
+- _25__mm
+- _40__mm
+- _50__mm
+- '30'
+- _300_mm_
+- _1500__mm
+- 150_mm
+- radius___45_mm
+- _30_mm_
+- _37
+- _60_mm_
+- _75_mm_
+- fig_15
+- 300_mm_300_mm
+- 160_mm
+- plate___iii__continued_
+- r_2_s_w
+- 2_5_s_w_2_5_s_w_2_5
+- 1_5_s_w
+- 2km
+- 2_5_s_w
+- figure_16
+- _______________
+- bhutanatha_temple
+- ___________
+- badami_fort
+- _15_mm_
+- _450_mm_
+- fig_17
+- 17_13_police_station_fig__17_14
+- '25'
+- 17_15_railway_station_metro_monorail_station
+- 17_16_industrial_area
+- et_c
+- '25___25'
+- 600_mm
+- 800_mm
+- 3500_mm_1750_mm
+- 2400_mm_950_mm
+- '20'
+- mm__1200_mm_
+- fig_18
+- 2175_mm
+- 615_mm
+- 40_mm
+- '25___25___25'
+- fig_20
+- 0_1_d
+- 0_125_d
+- 11250_mm
+- '2860'
+- 2000_mm
+- lane___3_h
+- 3500_mm
+- lane___2_l
+- lane___1_l
+- overtaking
+- 1350_mm
+- fig_22
+- figure_24
+- fig_25
+- annexure
+- _i_to_viii_
+- annexure___i
+- _section_14
+- list_of_mandatory___regulatory
+- stop_and_give_way_sign
+- stop
+- give_way
+- give_way_to_buses_exiting_the
+- bullock_and_hand_carts_prohibi
+- construction_vehicle_prohibite
+- two_wheeler_prohibited
+- pedestrian_prohibited
+- horn_prohibited
+- no_entry
+- left_turn_prohibited
+- right_turn_prohibited
+- priority_to_vehicles_from_the
+- free_left_turn_prohibited_at_s
+- no_parking_and_no_stopping_sig
+- no_standing
+- no_stopping_and_no_standing
+- definition_plate_to_fig
+- no_parking
+- vehicle_control_sign_and_speed
+- maximum_speed_limit__vehicle_t
+- restriction_ends_sign
+- restriction_ends
+- compulsory_control_andother_si
+- compulsory_ahead
+- compulsory_ahead_or_right_turn
+- compulsory_ahead_or_left_turn
+- compulsory_turn_right
+- compulsory_turn_left
+- priority_to_vehicles_from_righ
+- compulsory_turn_right__in_adva
+- compulsory_turn_left__in_advan
+- compulsory_keep_left
+- compulsory_keep_right
+- compulsory_cycle_track_cycle_o
+- pedestrian_only
+- bus_way_buses_only
+- annexure___ii
+- _section_15
+- list_of_cautionary___warning_s
+- left_hand_curve
+- left_side_road_on_left_curve
+- right_side_road_on_left_curve
+- cross_road_on_left_curve
+- staggered_intersection_on_left
+- right_hand_curve
+- left_side_road_on_right_curve
+- right_side_road_on_right_curve
+- cross_road_on_right_curve
+- staggered_intersection_on_righ
+- right_hairpin_bend
+- left_hairpin_bend
+- right_reverse_bend
+- left_reverse_bend
+- series_of_bend
+- degree_loop
+- side_road_right
+- side_road_left
+- t_intersection_major_road_ahea
+- merging_traffic_ahead__from_le
+- merging_traffic_ahead__from_ri
+- reduced_carriageway__left_lane
+- reduced_carriageway__right_lan
+- lane_closed__two_lane_carriage
+- lane_closed__three_lane_carria
+- lane_closed__four_lane_carriag
+- traffic_diversion_on_lane_carr
+- 49___supplementary_plate__end_
+- danger_warning
+- deaf_persons_likely_on_road_ah
+- blind_persons_likely_on_road_a
+- cycling_route_ahead
+- overhead_cables
+- playground_ahead
+- tunnel_ahead
+- trams_crossing
+- wild_animal
+- crash_prone_area_ahead
+- u_turn_ahead
+- single_chevron__normal_
+- single_chevron___100kmph_speed
+- double_chevron
+- triple_chevron
+- object_hazard__left_
+- object_hazard__right_
+- two_way_hazard_marker
+- annexure___iii
+- _section_16
+- rules_and_technical_advisory_f
+- annexure_iii_is_divided_into_t
+- list_of_direction_and_place_id
+- map_type_advance_directions_si
+- flag_type_direction_sign_fig
+- reassurance_sign_fig_16
+- place_identification_sign_fig
+- truck_lay_by_fig_16
+- toll_booth_ahead_fig_16
+- weigh_bridge_ahead_fig_16
+- gantry_mounted_advance_directi
+- fig_16
+- gantry_mounted_sign_far_advanc
+- lane_dedicated_gantry_signs_fi
+- shoulder_mounted_sign_in_advan
+- expressway_sign_fig
+- definition___supplementary_pla
+- boundary_sign_at_entrance_to_a
+- finger_type_signages_for_pedes
+- landmark_identification_sign_
+- street_name_board__fig_24
+- toll_plaza_related_signs__fig
+- rules_for_design_of_direction
+- the_rules_for_design_of_direct
+- alphabets
+- the__transport_medium__font_sh
+- common_principles_for_design_o
+- the_common_principles_to_be_ob
+- the_height_mentioned_in_table
+- the_design_pattern_shown_in_fi
+- all_place_names_on_a_sign_shal
+- letters_are_generally_placed_i
+- related_words_on_the_same_line
+- route_letters_and_route_number
+- route_letters_shall_be_2_s_w_a
+- there_shall_be_3_s_w_spaces_be
+- the_border_shall_be_1___s_w_wi
+- internal_corner_radius_of_oute
+- within_panel__the_borders_shal
+- for_gantry_mounted_directions
+- for_inclusion_of_cautionary_an
+- be_placed_between_the_destinat
+- the_distance_to_the_destinatio
+- in_addition_to_the_common_prin
+- layouts_of_stack_type_advance
+- forward_destination_and_arrow
+- left_destination_and_arrow_sha
+- right_destination_and_arrow_sh
+- the_arrows_other_than_the_righ
+- figured_kilometre_if_at_all_gi
+- the_arrow_shall_also_be_transp
+- the_font_height_for_different
+- layouts_of_map_type_ads__fig
+- the_width_of_route_symbol_shal
+- the_tips_of_route_symbol_shall
+- side_turning_symbol_shall_be_e
+- when_there_is_more_than_one_de
+- forward_destination_shall_be_c
+- the_map_type_signs_with_only_o
+- back_and_side_destinations_sha
+- there_shall_be_a_minimum_of_4
+- forward_symbol_shall_be_minimu
+- the_bottom_of_forward_symbol_s
+- forward_destination_shall_be_e
+- on_signs_with_one_side_turning
+- the_roundabout_symbol_shall_ha
+- there_shall_be_a_minimum_of_2
+- layouts_of_flag_type_direction
+- the_appropriate_end_of_sign_pl
+- the_chevron_shall_be_placed_3
+- place_name_shall_be_separated
+- the_width_of_chevron_shall_be
+- layouts_of_reassurance_sign__f
+- the_kilometrage_shall_be_centr
+- place_names_shall_be_aligned_l
+- kilometrage_shall_follow_relat
+- the_nearest_destination_shall
+- layouts_of_place_identificatio
+- the_lines_of_legend_shall_be_c
+- layouts_of_truck_lay_by_sign__
+- the_length_of_truck_symbol_sha
+- the_arrow_shall_be_3_s_w_from
+- the_arrow_shall_be_20_s_w_high
+- layouts_of_toll_booth_ahead_si
+- the_height_of_barrier_symbol_s
+- the_arrow_shall_be_16_s_w_and
+- layouts_of_weigh_bridge_ahead
+- the_truck_symbol_shall_be_16_s
+- layouts_of_gantry_mounted_ads
+- there_shall_be_dividing_line_o
+- the_lettering_on_both_sides_sh
+- if_kilometrage_is_shown__it_sh
+- the_top_panel_shall_for_destin
+- the_distance_to_exit_point_sha
+- layouts_of_lane_dedicated_gant
+- the_downward_arrow_shall_be_17
+- the_distance_between_two_downw
+- layouts_of_shoulder_mounted_ma
+- length_of_left_route_symbol_is
+- expressway_ahead_sign__fig
+- the_expressway_symbol_shall_be
+- chevron_shall_be_4_s_w_wide_as
+- gantry_mounted_sign_ahead_of_a
+- the_flyover_symbol_and_other_d
+- definition__supplementary_plat
+- the_border_shall_be_1_s_w
+- writings_shall_be_in_upper_cas
+- for_definition_and_supplementa
+- font_height_shall_be_50_mm_to
+- use_of_symbols_and_icons_for_d
+- the_icons_used_shall_be_having
+- tourism_related_signs__plate_i
+- the_photographs_used_for_bound
+- the_pedestrian_oriented_direct
+- signs_related_to_urban_scenari
+- mm__for_other_direction_signs_
+- toll_plaza_related_signs__plat
+- the_fastag_logo_shall_have_a_m
+- annexure___iv
+- _section_17_
+- light_refreshment
+- filling_station_fuel_pump_
+- emergency_sos_facility
+- repair_facility
+- intermediate_public_transport_
+- guide_sign_on_etc_lane
+- emergency_exit_right
+- emergency_exit_left
+- pedestrian_crossing_informator
+- speed_breaker_informatory_sign
+- parking_signs_and_flood_gauge
+- _section_18_
+- parking
+- car_parking
+- taxi_parking
+- parking_restriction_sign_for_t
+- signs_for_disabled_persons
+- _section_19_
+- international_symbol_of_access
+- parking_areas
+- telephone_facilities
+- toilet_facilities
+- way_finding
+- _section_20_
+- red_light_violation_penalty
+- stop_sign_violation_penalty_in
+- vehicle_category_wise_lane_ded
+- tow_away_zone
+- _section_22_
+- _section_24_
+- landmark_identification_sign
+- street_name_board
+- _section_25_
+- toll_plaza_ahead_overhead_cant
+- toll_plaza_lane_information_ov
+- toll_plaza_canopy_sign
+- for_fast_tag_lanes___at_the_to
+- annexure_v
+- fig_v
+- _____
+- mumbai
+- vadodara
+- bardoli
+- give
+- way
+- transverse_bar_marking_or_rumb
+- gwalior
+- etawah
+- _
+- etawah___gwalior
+- ____
+- jhansi
+- start_of_curve
+- a_a
+- _for_traffic_coming_from_delhi
+- ___f_________
+- aurobindo_marg
+- mehrauli
+- aiims
+- aiims__mehrauli
+- _______
+- nehru_palace
+- _________
+- greater_noida
+- 280_mm
+- 200_mm
+- toll_exempted_vehicles_and_eme
+- elevation_of_toll_booth
+- _9__ii_25_b
+- '10'
+- ______
+- _9_ii_25_a
+- _9_ii_25_b
+- 10_vadodara
+- _9__ii_25_a_b
+- ____________
+- km
+- mumbai__vadodara
+- annexure___vi
+- determination_of__x__height_fo
+- from_the_figure_vi
+- x_5
+- reading_time___2____n_3__secon
+- figure_vi
+- table_vi
+- _consistent_with_values_given
+- format_for_recording_sign_inst
+- maintenance_purpose
+- size_of_typical_qr_code__51_mm
+- recording_format_for_periodic
+- retro_reflectivity
+entities: []
+responses:
+  utter_1_transport_planning_and_traff:
+  - text: This sign provides information related to 1 transport planning and traff.
+  utter_popli__s:
+  - text: This sign provides information related to popli  s.
+  utter_spl:
+  - text: This sign provides information related to spl.
+  utter_corresponding_members:
+  - text: This sign provides information related to corresponding members.
+  utter_gangopadhyay__dr:
+  - text: This sign provides information related to gangopadhyay  dr.
+  utter_ex_officio_members:
+  - text: This sign provides information related to ex officio members.
+  utter_president__irc__joshi__c:
+  - text: This sign provides information related to president  irc  joshi  c.
+  utter_director_general__rd_____pande:
+  - text: This sign provides information related to director general  rd     pande.
+  utter_secretary_general__irc__nirmal:
+  - text: This sign provides information related to secretary general  irc  nirmal.
+  utter_the_highways_specifications_an:
+  - text: This sign provides information related to the highways specifications an.
+  utter_general:
+  - text: This sign provides information related to general.
+  utter_purpose_of_road_signs:
+  - text: This sign provides information related to purpose of road signs.
+  utter_the_purpose_of_the_road_signs:
+  - text: This sign provides information related to the purpose of the road signs.
+  utter_principles_of_road_signs:
+  - text: This sign provides information related to principles of road signs.
+  utter_this_code_contains_the_basic_p:
+  - text: This sign provides information related to this code contains the basic p.
+  utter_to_be_effective__a_road_sign_s:
+  - text: This sign provides information related to to be effective  a road sign s.
+  utter_fulfill_a_need_:
+  - text: This sign provides information related to fulfill a need .
+  utter_command_attention_:
+  - text: This sign provides information related to command attention .
+  utter_convey_a_clear_and_simple_mean:
+  - text: This sign provides information related to convey a clear and simple mean.
+  utter_command_respect_from_road_user:
+  - text: This sign provides information related to command respect from road user.
+  utter_give_adequate_time_for_respons:
+  - text: This sign provides information related to give adequate time for respons.
+  utter_design__placement__operation_:
+  - text: This sign provides information related to design  placement  operation .
+  utter_placement_and_operation_of_roa:
+  - text: This sign provides information related to placement and operation of roa.
+  utter_placement_of_road_signs_should:
+  - text: This sign provides information related to placement of road signs should.
+  utter_road_signs_or_their_supports__:
+  - text: This sign provides information related to road signs or their supports  .
+  utter_road_signs_should_be_placed_an:
+  - text: This sign provides information related to road signs should be placed an.
+  utter_maintenance_of_road_signs:
+  - text: This sign provides information related to maintenance of road signs.
+  utter_maintenance_of_road_signs_shou:
+  - text: This sign provides information related to maintenance of road signs shou.
+  utter_at_regular_periodic_intervals_:
+  - text: This sign provides information related to at regular periodic intervals
+      .
+  utter_uniformity_of_road_signs:
+  - text: This sign provides information related to uniformity of road signs.
+  utter_uniformity_of_signs_simplifies:
+  - text: This sign provides information related to uniformity of signs simplifies.
+  utter_traffic_engineering_study:
+  - text: This sign provides information related to traffic engineering study.
+  utter_the_decision_to_use_a_particul:
+  - text: This sign provides information related to the decision to use a particul.
+  utter_authorities_with_responsibilit:
+  - text: This sign provides information related to authorities with responsibilit.
+  utter_classification_of_road_signs:
+  - text: This sign provides information related to classification of road signs.
+  utter_road_signs_are_classified_unde:
+  - text: This sign provides information related to road signs are classified unde.
+  utter_mandatory___regulatory_signs:
+  - text: This sign provides information related to mandatory   regulatory signs.
+  utter_all_mandatory_or_regulatory_si:
+  - text: This sign provides information related to all mandatory or regulatory si.
+  utter_with_red_circular_ring_and_dia:
+  - text: This sign provides information related to with red circular ring and dia.
+  utter_figure_3:
+  - text: This sign provides information related to figure 3.
+  utter_mandatory_signs_giving_positiv:
+  - text: This sign provides information related to mandatory signs giving positiv.
+  utter_control_signs_are_to_compulsor:
+  - text: This sign provides information related to control signs are to compulsor.
+  utter_mandatory_and_regulatory_signs:
+  - text: This sign provides information related to mandatory and regulatory signs.
+  utter_cautionary___warning_signs:
+  - text: This sign provides information related to cautionary   warning signs.
+  utter_cautionary___warning_signs_are:
+  - text: This sign provides information related to cautionary   warning signs are.
+  utter_need_for_special_caution_by_ro:
+  - text: This sign provides information related to need for special caution by ro.
+  utter_3_2_:
+  - text: This sign provides information related to 3 2 .
+  utter_informatory___guide_signs:
+  - text: This sign provides information related to informatory   guide signs.
+  utter_all_guide_signs_and_informator:
+  - text: This sign provides information related to all guide signs and informator.
+  utter_information_signs_in_rectangul:
+  - text: This sign provides information related to information signs in rectangul.
+  utter_road_classifications:
+  - text: This sign provides information related to road classifications.
+  utter_generally__roads_in_india_are:
+  - text: This sign provides information related to generally  roads in india are.
+  utter_expressways:
+  - text: This sign provides information related to expressways.
+  utter_national_highways:
+  - text: This sign provides information related to national highways.
+  utter_state_highways:
+  - text: This sign provides information related to state highways.
+  utter_major_district_roads:
+  - text: This sign provides information related to major district roads.
+  utter_rural_roads__other_district_ro:
+  - text: This sign provides information related to rural roads  other district ro.
+  utter_urban__city__roads:
+  - text: This sign provides information related to urban  city  roads.
+  utter_the_colour_combinations_for_di:
+  - text: This sign provides information related to the colour combinations for di.
+  utter_siting_of_signs_with_respect_t:
+  - text: This sign provides information related to siting of signs with respect t.
+  utter_the_road_signs_are_the_means_o:
+  - text: This sign provides information related to the road signs are the means o.
+  utter_on_all_roads_with_or_without_k:
+  - text: This sign provides information related to on all roads with or without k.
+  utter_gantry_mounted_signs_should_be:
+  - text: This sign provides information related to gantry mounted signs should be.
+  utter_on_kerbed_roads__the_bottom_ed:
+  - text: This sign provides information related to on kerbed roads  the bottom ed.
+  utter_where_in_the_opinion_of_the_co:
+  - text: This sign provides information related to where in the opinion of the co.
+  utter_the_signs_shall_be_so_placed_t:
+  - text: This sign provides information related to the signs shall be so placed t.
+  utter_unhindered_movement_of_pedestr:
+  - text: This sign provides information related to unhindered movement of pedestr.
+  utter_on_multi_lane_roads__the_signs:
+  - text: This sign provides information related to on multi lane roads  the signs.
+  utter_traffic_volume_at_or_near_capa:
+  - text: This sign provides information related to traffic volume at or near capa.
+  utter_complex_interchange_design:
+  - text: This sign provides information related to complex interchange design.
+  utter_three_or_more_lanes_in_each_di:
+  - text: This sign provides information related to three or more lanes in each di.
+  utter_restricted_visibility:
+  - text: This sign provides information related to restricted visibility.
+  utter_high_speed_traffic:
+  - text: This sign provides information related to high speed traffic.
+  utter_insufficient_space_for_ground:
+  - text: This sign provides information related to insufficient space for ground.
+  utter_large_percentage_of_commercial:
+  - text: This sign provides information related to large percentage of commercial.
+  utter_closely_spaced_interchanges:
+  - text: This sign provides information related to closely spaced interchanges.
+  utter_from_safety_and_aesthetic_stan:
+  - text: This sign provides information related to from safety and aesthetic stan.
+  utter_mandatory_signs__e:
+  - text: This sign provides information related to mandatory signs  e.
+  utter_table_4:
+  - text: This sign provides information related to table 4.
+  utter_figure_4:
+  - text: This sign provides information related to figure 4.
+  utter__refer_table_4:
+  - text: This sign provides information related to  refer table 4.
+  utter_orientation_of_signs:
+  - text: This sign provides information related to orientation of signs.
+  utter_the_signs_unless_otherwise_sta:
+  - text: This sign provides information related to the signs unless otherwise sta.
+  utter_carriageway_so_as_to_give_bett:
+  - text: This sign provides information related to carriageway so as to give bett.
+  utter_where_light_reflection_from_th:
+  - text: This sign provides information related to where light reflection from th.
+  utter_sign_faces_are_normally_vertic:
+  - text: This sign provides information related to sign faces are normally vertic.
+  utter_figure_5:
+  - text: This sign provides information related to figure 5.
+  utter_material_for_signs:
+  - text: This sign provides information related to material for signs.
+  utter_the_various_materials_and_fabr:
+  - text: This sign provides information related to the various materials and fabr.
+  utter_concrete:
+  - text: This sign provides information related to concrete.
+  utter_concrete_shall_be_of_m25_grade:
+  - text: This sign provides information related to concrete shall be of m25 grade.
+  utter_reinforcing_steel:
+  - text: This sign provides information related to reinforcing steel.
+  utter_reinforcing_steel_shall_confor:
+  - text: This sign provides information related to reinforcing steel shall confor.
+  utter_bolts__nuts_and_washers:
+  - text: This sign provides information related to bolts  nuts and washers.
+  utter_high_strength_bolts_shall_conf:
+  - text: This sign provides information related to high strength bolts shall conf.
+  utter_plates_and_supports:
+  - text: This sign provides information related to plates and supports.
+  utter_plates_and_support_sections_fo:
+  - text: This sign provides information related to plates and support sections fo.
+  utter_substrate:
+  - text: This sign provides information related to substrate.
+  utter_the_substrate_shall_be_either:
+  - text: This sign provides information related to the substrate shall be either.
+  utter_aluminium:
+  - text: This sign provides information related to aluminium.
+  utter_aluminium_sheets_used_for_sign:
+  - text: This sign provides information related to aluminium sheets used for sign.
+  utter_aluminium_composite_materials:
+  - text: This sign provides information related to aluminium composite materials.
+  utter_acm_sheets_used_for_sign_board:
+  - text: This sign provides information related to acm sheets used for sign board.
+  utter_plate_thickness:
+  - text: This sign provides information related to plate thickness.
+  utter_shoulder_mounted_ground_signs:
+  - text: This sign provides information related to shoulder mounted ground signs.
+  utter_table_6:
+  - text: This sign provides information related to table 6.
+  utter_retro_reflective_sheeting:
+  - text: This sign provides information related to retro reflective sheeting.
+  utter_the_retro_reflective_sheeting:
+  - text: This sign provides information related to the retro reflective sheeting.
+  utter_class_a_sheeting____engineerin:
+  - text: This sign provides information related to class a sheeting    engineerin.
+  utter_class_b_sheeting___high_intens:
+  - text: This sign provides information related to class b sheeting   high intens.
+  utter_class_c_sheeting____all_micro:
+  - text: This sign provides information related to class c sheeting    all micro.
+  utter_selection_of_sheeting:
+  - text: This sign provides information related to selection of sheeting.
+  utter_the_performance_characteristic:
+  - text: This sign provides information related to the performance characteristic.
+  utter_retro_reflection_means_the_ref:
+  - text: This sign provides information related to retro reflection means the ref.
+  utter_observation_angle_____is_the_a:
+  - text: This sign provides information related to observation angle     is the a.
+  utter_figure_6:
+  - text: This sign provides information related to figure 6.
+  utter_entrance_angle_____means_the_a:
+  - text: This sign provides information related to entrance angle     means the a.
+  utter_coefficient_of_retro_reflectio:
+  - text: This sign provides information related to coefficient of retro reflectio.
+  utter_r____i___ev___a__6:
+  - text: This sign provides information related to r    i   ev   a  6.
+  utter_where__r__is_coefficient_of_re:
+  - text: This sign provides information related to where  r  is coefficient of re.
+  utter_though_the_sheeting_as_per_ast:
+  - text: This sign provides information related to though the sheeting as per ast.
+  utter_____for_work_zone__type_iv_can:
+  - text: This sign provides information related to     for work zone  type iv can.
+  utter_____optional__can_be_used_base:
+  - text: This sign provides information related to     optional  can be used base.
+  utter_class_a__engineering_grade_she:
+  - text: This sign provides information related to class a  engineering grade she.
+  utter_type_i_engineering_grade_sheet:
+  - text: This sign provides information related to type i engineering grade sheet.
+  utter_this_sheeting_shall_be_of_encl:
+  - text: This sign provides information related to this sheeting shall be of encl.
+  utter__source__astm__d4956_:
+  - text: This sign provides information related to  source  astm  d4956 .
+  utter_at_the_end_of_5_years__the_she:
+  - text: This sign provides information related to at the end of 5 years  the she.
+  utter_type_ii_super_engineering_grad:
+  - text: This sign provides information related to type ii super engineering grad.
+  utter_class_b__high_intensity_grade:
+  - text: This sign provides information related to class b  high intensity grade.
+  utter_type_iii_high_intensity_grade:
+  - text: This sign provides information related to type iii high intensity grade.
+  utter_this_high_intensity_retro_refl:
+  - text: This sign provides information related to this high intensity retro refl.
+  utter_at_the_end_of_7_years__the_she:
+  - text: This sign provides information related to at the end of 7 years  the she.
+  utter_minimum_coefficient_of_retro_r:
+  - text: This sign provides information related to minimum coefficient of retro r.
+  utter_values_for_0:
+  - text: This sign provides information related to values for 0.
+  utter_type_iv_high_intensity_micro_p:
+  - text: This sign provides information related to type iv high intensity micro p.
+  utter_this_sheeting_shall_be_of_high:
+  - text: This sign provides information related to this sheeting shall be of high.
+  utter_class_c__micro_prismatic_grade:
+  - text: This sign provides information related to class c  micro prismatic grade.
+  utter_type_viii_micro_prismatic_grad:
+  - text: This sign provides information related to type viii micro prismatic grad.
+  utter_retro_reflective_sheeting_is_t:
+  - text: This sign provides information related to retro reflective sheeting is t.
+  utter_at_the_end_of_10_years__the_sh:
+  - text: This sign provides information related to at the end of 10 years  the sh.
+  utter_type_ix_micro_prismatic_grade:
+  - text: This sign provides information related to type ix micro prismatic grade.
+  utter_minimum_co_efficient_of_retro_:
+  - text: This sign provides information related to minimum co efficient of retro
+      .
+  utter_type_xi_micro_prismatic_grade:
+  - text: This sign provides information related to type xi micro prismatic grade.
+  utter_adhesives:
+  - text: This sign provides information related to adhesives.
+  utter_the_sheeting_shall_have_a_pres:
+  - text: This sign provides information related to the sheeting shall have a pres.
+  utter_fabrication:
+  - text: This sign provides information related to fabrication.
+  utter_surface_to_be_reflectorized_sh:
+  - text: This sign provides information related to surface to be reflectorized sh.
+  utter_mm__where_screen_printing_with:
+  - text: This sign provides information related to mm  where screen printing with.
+  utter_be_used:
+  - text: This sign provides information related to be used.
+  utter_messages___borders:
+  - text: This sign provides information related to messages   borders.
+  utter_the_messages__legends__letters:
+  - text: This sign provides information related to the messages  legends  letters.
+  utter_in_the_case_of_screen_printed:
+  - text: This sign provides information related to in the case of screen printed.
+  utter_initial_colour_shall_meet_the:
+  - text: This sign provides information related to initial colour shall meet the.
+  utter_sheeting_manufacturer:
+  - text: This sign provides information related to sheeting manufacturer.
+  utter_warranty_and_durability:
+  - text: This sign provides information related to warranty and durability.
+  utter_the_contractor_shall_obtain_fr:
+  - text: This sign provides information related to the contractor shall obtain fr.
+  utter_posts_and_mountings_for_signs:
+  - text: This sign provides information related to posts and mountings for signs.
+  utter_the_traffic_signs_shall_be_mou:
+  - text: This sign provides information related to the traffic signs shall be mou.
+  utter_all_components_of_signs_and_su:
+  - text: This sign provides information related to all components of signs and su.
+  utter_except_in_the_case_of_railway:
+  - text: This sign provides information related to except in the case of railway.
+  utter_the_signs_shall_be_fixed_to_th:
+  - text: This sign provides information related to the signs shall be fixed to th.
+  utter_for_overhead_signs__the_suppor:
+  - text: This sign provides information related to for overhead signs  the suppor.
+  utter_colour_for_signs:
+  - text: This sign provides information related to colour for signs.
+  utter_signs_shall_be_provided_with_r:
+  - text: This sign provides information related to signs shall be provided with r.
+  utter_the_colour_of_the_material_sha:
+  - text: This sign provides information related to the colour of the material sha.
+  utter_the_colours_shall_be_durable_a:
+  - text: This sign provides information related to the colours shall be durable a.
+  utter_the_mandatory_and_warning_sign:
+  - text: This sign provides information related to the mandatory and warning sign.
+  utter_colour_pattern_for_direction_i:
+  - text: This sign provides information related to colour pattern for direction i.
+  utter_the_colours_chosen_for_informa:
+  - text: This sign provides information related to the colours chosen for informa.
+  utter_table_8:
+  - text: This sign provides information related to table 8.
+  utter_colour_specification_limits_da:
+  - text: This sign provides information related to colour specification limits da.
+  utter_a_the_four_pairs_of_chromatici:
+  - text: This sign provides information related to a the four pairs of chromatici.
+  utter_b_the_saturation_limit_of_gree:
+  - text: This sign provides information related to b the saturation limit of gree.
+  utter_colour_specification_limits__n:
+  - text: This sign provides information related to colour specification limits  n.
+  utter__performance_defined_for_the_m:
+  - text: This sign provides information related to  performance defined for the m.
+  utter_size_of_signs:
+  - text: This sign provides information related to size of signs.
+  utter_as_a_general_rule__there_shall:
+  - text: This sign provides information related to as a general rule  there shall.
+  utter_general_dimensions_of_differen:
+  - text: This sign provides information related to general dimensions of differen.
+  utter_definition_plates___supplement:
+  - text: This sign provides information related to definition plates   supplement.
+  utter_where_the_competent_authority:
+  - text: This sign provides information related to where the competent authority.
+  utter_visibility_of_signs:
+  - text: This sign provides information related to visibility of signs.
+  utter_in_order_to_make_signs_more_vi:
+  - text: This sign provides information related to in order to make signs more vi.
+  utter_it_is_essential_that_drivers_a:
+  - text: This sign provides information related to it is essential that drivers a.
+  utter_backing_board_and_use_of_fluor:
+  - text: This sign provides information related to backing board and use of fluor.
+  utter_design:
+  - text: This sign provides information related to design.
+  utter_to_improve_conspicuity_against:
+  - text: This sign provides information related to to improve conspicuity against.
+  utter_square_in_shape:
+  - text: This sign provides information related to square in shape.
+  utter_itself_be_provided_with_a_bord:
+  - text: This sign provides information related to itself be provided with a bord.
+  utter_there_are_potential_disadvanta:
+  - text: This sign provides information related to there are potential disadvanta.
+  utter_figure_11:
+  - text: This sign provides information related to figure 11.
+  utter_backing_boards:
+  - text: This sign provides information related to backing boards.
+  utter_warrants_for_using_backing_boa:
+  - text: This sign provides information related to warrants for using backing boa.
+  utter_when_all_other_normal_treatmen:
+  - text: This sign provides information related to when all other normal treatmen.
+  utter_size_of_letters:
+  - text: This sign provides information related to size of letters.
+  utter_letter_size_should_be_chosen_c:
+  - text: This sign provides information related to letter size should be chosen c.
+  utter_letter_size_on_definition_plat:
+  - text: This sign provides information related to letter size on definition plat.
+  utter_table_12:
+  - text: This sign provides information related to table 12.
+  utter_note__where_there_are_site_spa:
+  - text: This sign provides information related to note  where there are site spa.
+  utter_notes_:
+  - text: This sign provides information related to notes .
+  utter_for_grade_separated_junction_:
+  - text: This sign provides information related to for grade separated junction .
+  utter_the__x__height_is_the_height_o:
+  - text: This sign provides information related to the  x  height is the height o.
+  utter_case_shall_be_1:
+  - text: This sign provides information related to case shall be 1.
+  utter_in_columns_2__3__7__8__10_and:
+  - text: This sign provides information related to in columns 2  3  7  8  10 and.
+  utter_in_columns_4_and_9_of_table_12:
+  - text: This sign provides information related to in columns 4 and 9 of table 12.
+  utter_in_columns_5_and_6_table_12:
+  - text: This sign provides information related to in columns 5 and 6 table 12.
+  utter_reassurance_signs_shall_normal:
+  - text: This sign provides information related to reassurance signs shall normal.
+  utter_columns10__11_and_12_of_table:
+  - text: This sign provides information related to columns10  11 and 12 of table.
+  utter_maintenance_of_signs:
+  - text: This sign provides information related to maintenance of signs.
+  utter_prior_to_installing_any_road_s:
+  - text: This sign provides information related to prior to installing any road s.
+  utter_a_reference_number_along_with:
+  - text: This sign provides information related to a reference number along with.
+  utter_all_signs_shall_be_visually_in:
+  - text: This sign provides information related to all signs shall be visually in.
+  utter_the_authorities_responsible_fo:
+  - text: This sign provides information related to the authorities responsible fo.
+  utter_in_addition_to_the_painting_of:
+  - text: This sign provides information related to in addition to the painting of.
+  utter_mandatory__regulatory_signs:
+  - text: This sign provides information related to mandatory  regulatory signs.
+  utter_the_detailed_dimensioned_drawi:
+  - text: This sign provides information related to the detailed dimensioned drawi.
+  utter__stop__and__give_way__signs__r:
+  - text: This sign provides information related to  stop  and  give way  signs  r.
+  utter__prohibitory__signs:
+  - text: This sign provides information related to  prohibitory  signs.
+  utter__no_parking__and__no_stopping_:
+  - text: This sign provides information related to  no parking  and  no stopping
+      .
+  utter__speed_limit__and__vehicle_con:
+  - text: This sign provides information related to  speed limit  and  vehicle con.
+  utter__restriction_ends__sign__and:
+  - text: This sign provides information related to  restriction ends  sign  and.
+  utter__compulsory_direction_control_:
+  - text: This sign provides information related to  compulsory direction control
+      .
+  utter_regulatory_signs_that_indicate:
+  - text: This sign provides information related to regulatory signs that indicate.
+  utter_where_the_restriction__require:
+  - text: This sign provides information related to where the restriction  require.
+  utter_at_a_junction_where_traffic_tu:
+  - text: This sign provides information related to at a junction where traffic tu.
+  utter_at_a_junction_where_the_carria:
+  - text: This sign provides information related to at a junction where the carria.
+  utter_from_the_center_of_most_disadv:
+  - text: This sign provides information related to from the center of most disadv.
+  utter_stop_sign:
+  - text: This sign provides information related to stop sign.
+  utter_purpose:
+  - text: This sign provides information related to purpose.
+  utter_this_is_for_indicating_priorit:
+  - text: This sign provides information related to this is for indicating priorit.
+  utter_combination_with_markings:
+  - text: This sign provides information related to combination with markings.
+  utter_the_stop_sign_shall_always_be:
+  - text: This sign provides information related to the stop sign shall always be.
+  utter_size__shape_and_colour:
+  - text: This sign provides information related to size  shape and colour.
+  utter_the_sign__shown_in_fig:
+  - text: This sign provides information related to the sign  shown in fig.
+  utter_table_14:
+  - text: This sign provides information related to table 14.
+  utter_warrants_for_installation:
+  - text: This sign provides information related to warrants for installation.
+  utter_the_sign_should_be_used_on_a_y:
+  - text: This sign provides information related to the sign should be used on a y.
+  utter_minor_road_at_its_intersection:
+  - text: This sign provides information related to minor road at its intersection.
+  utter_x:
+  - text: This sign provides information related to x.
+  utter_with_a_major_road_where:
+  - text: This sign provides information related to with a major road where.
+  utter_conditions_are_considered_to_b:
+  - text: This sign provides information related to conditions are considered to b.
+  utter_restricted__visibility___bad_a:
+  - text: This sign provides information related to restricted  visibility   bad a.
+  utter_figure_14:
+  - text: This sign provides information related to figure 14.
+  utter_records:
+  - text: This sign provides information related to records.
+  utter_note__1__the_visibility_distan:
+  - text: This sign provides information related to note  1  the visibility distan.
+  utter_above_the_central_line_of_the:
+  - text: This sign provides information related to above the central line of the.
+  utter__2__x___3_m_for_side_roads_wit:
+  - text: This sign provides information related to  2  x   3 m for side roads wit.
+  utter_location:
+  - text: This sign provides information related to location.
+  utter_the_sign_shall_be_installed_on:
+  - text: This sign provides information related to the sign shall be installed on.
+  utter_the_site_conditions_prevent_a:
+  - text: This sign provides information related to the site conditions prevent a.
+  utter_easily_seen__it_should_be_plac:
+  - text: This sign provides information related to easily seen  it should be plac.
+  utter_give_way_sign:
+  - text: This sign provides information related to give way sign.
+  utter_give_way_sign_shall_be_used_to:
+  - text: This sign provides information related to give way sign shall be used to.
+  utter_the_sign_shall_be_an_equilater:
+  - text: This sign provides information related to the sign shall be an equilater.
+  utter_the_sign_shall_be_used_on_all:
+  - text: This sign provides information related to the sign shall be used on all.
+  utter_in_non_urban_areas_at_all_junc:
+  - text: This sign provides information related to in non urban areas at all junc.
+  utter_in_urban_areas_generally_at_ju:
+  - text: This sign provides information related to in urban areas generally at ju.
+  utter_the_sign_shall_be_located_in_a:
+  - text: This sign provides information related to the sign shall be located in a.
+  utter_say_at_a_distance_of_1:
+  - text: This sign provides information related to say at a distance of 1.
+  utter_give_way_to_buses_exiting_bus:
+  - text: This sign provides information related to give way to buses exiting bus.
+  utter_the_sign_shall_be_used_to_info:
+  - text: This sign provides information related to the sign shall be used to info.
+  utter_prohibitory_signs:
+  - text: This sign provides information related to prohibitory signs.
+  utter_these_signs_generally_give_ins:
+  - text: This sign provides information related to these signs generally give ins.
+  utter_the_signs_shall_be_of_circular:
+  - text: This sign provides information related to the signs shall be of circular.
+  utter_bullock_carts_prohibited:
+  - text: This sign provides information related to bullock carts prohibited.
+  utter_the_sign_shall_be_erected_on_e:
+  - text: This sign provides information related to the sign shall be erected on e.
+  utter__prohibitory_signs_in_conjunct:
+  - text: This sign provides information related to  prohibitory signs in conjunct.
+  utter_bullock_carts_and_hand_carts_p:
+  - text: This sign provides information related to bullock carts and hand carts p.
+  utter_hand_carts_prohibited:
+  - text: This sign provides information related to hand carts prohibited.
+  utter_tongas_prohibited:
+  - text: This sign provides information related to tongas prohibited.
+  utter__fig:
+  - text: This sign provides information related to  fig.
+  utter_horse_riding_prohibited:
+  - text: This sign provides information related to horse riding prohibited.
+  utter_the_sign_shall_be_used_where_h:
+  - text: This sign provides information related to the sign shall be used where h.
+  utter_towed_caravan_not_allowed:
+  - text: This sign provides information related to towed caravan not allowed.
+  utter_the_sign_shall_be_used_at_the:
+  - text: This sign provides information related to the sign shall be used at the.
+  utter_buses_prohibited:
+  - text: This sign provides information related to buses prohibited.
+  utter_the_sign_shall_be_used_where_b:
+  - text: This sign provides information related to the sign shall be used where b.
+  utter_cars_prohibited:
+  - text: This sign provides information related to cars prohibited.
+  utter_the_sign_shall_be_used_where_e:
+  - text: This sign provides information related to the sign shall be used where e.
+  utter_trucks_prohibited:
+  - text: This sign provides information related to trucks prohibited.
+  utter_tractor_prohibited:
+  - text: This sign provides information related to tractor prohibited.
+  utter_construction_vehicles_prohibit:
+  - text: This sign provides information related to construction vehicles prohibit.
+  utter_articulated_vehicles_movement:
+  - text: This sign provides information related to articulated vehicles movement.
+  utter_the_sign_shall_be_used_for_pro:
+  - text: This sign provides information related to the sign shall be used for pro.
+  utter_two_wheelers_prohibited:
+  - text: This sign provides information related to two wheelers prohibited.
+  utter_the_sign_shall_be_erected_on_s:
+  - text: This sign provides information related to the sign shall be erected on s.
+  utter_cycles_prohibited:
+  - text: This sign provides information related to cycles prohibited.
+  utter_pedestrians_prohibited:
+  - text: This sign provides information related to pedestrians prohibited.
+  utter_blowing_horn_prohibited:
+  - text: This sign provides information related to blowing horn prohibited.
+  utter_the_sign_shall_be_used_on_stre:
+  - text: This sign provides information related to the sign shall be used on stre.
+  utter_straight_prohibited__no_entry:
+  - text: This sign provides information related to straight prohibited  no entry.
+  utter_the_signs_shall_be_located_at:
+  - text: This sign provides information related to the signs shall be located at.
+  utter_roadway__facing_traffic_that_m:
+  - text: This sign provides information related to roadway  facing traffic that m.
+  utter_one_way:
+  - text: This sign provides information related to one way.
+  utter_the_sign_shall_be_located_at_t:
+  - text: This sign provides information related to the sign shall be located at t.
+  utter_left___right_turn_prohibited:
+  - text: This sign provides information related to left   right turn prohibited.
+  utter_at_unsignalized_intersection_w:
+  - text: This sign provides information related to at unsignalized intersection w.
+  utter_overtaking_prohibited:
+  - text: This sign provides information related to overtaking prohibited.
+  utter_the_sign__fig:
+  - text: This sign provides information related to the sign  fig.
+  utter_u_turn_prohibited:
+  - text: This sign provides information related to u turn prohibited.
+  utter_right_turn___u_turn_prohibited:
+  - text: This sign provides information related to right turn   u turn prohibited.
+  utter_the_sign_shall_be_used_where_r:
+  - text: This sign provides information related to the sign shall be used where r.
+  utter_free_left_prohibited_on_signal:
+  - text: This sign provides information related to free left prohibited on signal.
+  utter_the_sign_shall_be_placed_at_le:
+  - text: This sign provides information related to the sign shall be placed at le.
+  utter_priority_to_vehicles_from_oppo:
+  - text: This sign provides information related to priority to vehicles from oppo.
+  utter_no_stopping_and_no_standing_si:
+  - text: This sign provides information related to no stopping and no standing si.
+  utter_the_signs__fig:
+  - text: This sign provides information related to the signs  fig.
+  utter_combination_with_definition_pl:
+  - text: This sign provides information related to combination with definition pl.
+  utter_there_shall_be_a_definition_pl:
+  - text: This sign provides information related to there shall be a definition pl.
+  utter_the_days_of_the_week_during_wh:
+  - text: This sign provides information related to the days of the week during wh.
+  utter_the_hours_of_the_day_during_wh:
+  - text: This sign provides information related to the hours of the day during wh.
+  utter_the_distance_up_to_which_the_p:
+  - text: This sign provides information related to the distance up to which the p.
+  utter_exceptions_granted_for_certain:
+  - text: This sign provides information related to exceptions granted for certain.
+  utter_in_addition__the_definition_pl:
+  - text: This sign provides information related to in addition  the definition pl.
+  utter_location_of__no_standing__sign:
+  - text: This sign provides information related to location of  no standing  sign.
+  utter_location_of__no_stopping__and:
+  - text: This sign provides information related to location of  no stopping  and.
+  utter_no_parking_signs_in_urban_area:
+  - text: This sign provides information related to no parking signs in urban area.
+  utter_in_urban_areas__the__no_parkin:
+  - text: This sign provides information related to in urban areas  the  no parkin.
+  utter_parking_not_allowed_on_footpat:
+  - text: This sign provides information related to parking not allowed on footpat.
+  utter_the_sign_is_to_be_erected_wher:
+  - text: This sign provides information related to the sign is to be erected wher.
+  utter_parking_not_allowed_on_half_of:
+  - text: This sign provides information related to parking not allowed on half of.
+  utter_speed_limit_and_vehicle_contro:
+  - text: This sign provides information related to speed limit and vehicle contro.
+  utter_these_signs_shall_be_erected_a:
+  - text: This sign provides information related to these signs shall be erected a.
+  utter_axle_load_limit:
+  - text: This sign provides information related to axle load limit.
+  utter_the_sign_shall_be_erected_wher:
+  - text: This sign provides information related to the sign shall be erected wher.
+  utter_definition_plate_with__weak_br:
+  - text: This sign provides information related to definition plate with  weak br.
+  utter_height_limit:
+  - text: This sign provides information related to height limit.
+  utter_the_sign_shall_be_erected_in_a:
+  - text: This sign provides information related to the sign shall be erected in a.
+  utter_length_limit:
+  - text: This sign provides information related to length limit.
+  utter_load_limit:
+  - text: This sign provides information related to load limit.
+  utter_width_limit:
+  - text: This sign provides information related to width limit.
+  utter_maximum_speed_limit:
+  - text: This sign provides information related to maximum speed limit.
+  utter_where_different_speed_limits_a:
+  - text: This sign provides information related to where different speed limits a.
+  utter_speed_limit_repeater_and_termi:
+  - text: This sign provides information related to speed limit repeater and termi.
+  utter_the_speed_limit_sign_in_cities:
+  - text: This sign provides information related to the speed limit sign in cities.
+  utter_1terminal_sign_is_used_to_indi:
+  - text: This sign provides information related to 1terminal sign is used to indi.
+  utter__for_rural_highways__the_conse:
+  - text: This sign provides information related to  for rural highways  the conse.
+  utter_2_5_km_if_placed_on:
+  - text: This sign provides information related to 2 5 km if placed on.
+  utter_gateway_signs:
+  - text: This sign provides information related to gateway signs.
+  utter_gateway_signs__figure_14:
+  - text: This sign provides information related to gateway signs  figure 14.
+  utter_stop_for_police_check:
+  - text: This sign provides information related to stop for police check.
+  utter_restriction_ends_sign__fig:
+  - text: This sign provides information related to restriction ends sign  fig.
+  utter_it_shall_be_circular_with_whit:
+  - text: This sign provides information related to it shall be circular with whit.
+  utter_this_sign_shall_indicate_the_p:
+  - text: This sign provides information related to this sign shall indicate the p.
+  utter_compulsory_direction_control_a:
+  - text: This sign provides information related to compulsory direction control a.
+  utter_these_signs_shall_be_circular:
+  - text: This sign provides information related to these signs shall be circular.
+  utter___in_conjunction_with_traffic:
+  - text: This sign provides information related to   in conjunction with traffic.
+  utter_compulsory_ahead__compulsory_a:
+  - text: This sign provides information related to compulsory ahead  compulsory a.
+  utter_the_signs_in_fig:
+  - text: This sign provides information related to the signs in fig.
+  utter_compulsory_turn_left_right:
+  - text: This sign provides information related to compulsory turn left right.
+  utter_14_49_as_appropriate_should_be:
+  - text: This sign provides information related to 14 49 as appropriate should be.
+  utter_compulsory_keep_left___right:
+  - text: This sign provides information related to compulsory keep left   right.
+  utter_the_sign_in_fig:
+  - text: This sign provides information related to the sign in fig.
+  utter_pass_either_side:
+  - text: This sign provides information related to pass either side.
+  utter_the__pass_either_side__sign_as:
+  - text: This sign provides information related to the  pass either side  sign as.
+  utter_minimum_speed_limit:
+  - text: This sign provides information related to minimum speed limit.
+  utter_where_engineering_judgment_det:
+  - text: This sign provides information related to where engineering judgment det.
+  utter_compulsory_cycle_track_cycles:
+  - text: This sign provides information related to compulsory cycle track cycles.
+  utter_the_sign_shall_notify_cyclists:
+  - text: This sign provides information related to the sign shall notify cyclists.
+  utter_compulsory_cyclist_and_pedestr:
+  - text: This sign provides information related to compulsory cyclist and pedestr.
+  utter_the_sign_shall_be_used_to_segr:
+  - text: This sign provides information related to the sign shall be used to segr.
+  utter_pedestrians_only:
+  - text: This sign provides information related to pedestrians only.
+  utter_the_sign_shall_mean_that_only:
+  - text: This sign provides information related to the sign shall mean that only.
+  utter_compulsory_snow_chain:
+  - text: This sign provides information related to compulsory snow chain.
+  utter_the_sign_shall_be_used_in_hill:
+  - text: This sign provides information related to the sign shall be used in hill.
+  utter_busway_buses_only:
+  - text: This sign provides information related to busway buses only.
+  utter_compulsory_sound_horn:
+  - text: This sign provides information related to compulsory sound horn.
+  utter_the_sign_shall_mean_that_the_m:
+  - text: This sign provides information related to the sign shall mean that the m.
+  utter_the_signs_shall_be_in_the_shap:
+  - text: This sign provides information related to the signs shall be in the shap.
+  utter_table_15:
+  - text: This sign provides information related to table 15.
+  utter_location_and_mounting:
+  - text: This sign provides information related to location and mounting.
+  utter_warning_signs_should_not_be_mo:
+  - text: This sign provides information related to warning signs should not be mo.
+  utter_left___right_curve:
+  - text: This sign provides information related to left   right curve.
+  utter_these_signs_are_to_be_used__wh:
+  - text: This sign provides information related to these signs are to be used  wh.
+  utter_15_65__the_left_hand_curve:
+  - text: This sign provides information related to 15 65  the left hand curve.
+  utter_curves_with_side_road_or_cross:
+  - text: This sign provides information related to curves with side road or cross.
+  utter_right___left_hairpin_bend:
+  - text: This sign provides information related to right   left hairpin bend.
+  utter_the_sign_should_be_used_to_mar:
+  - text: This sign provides information related to the sign should be used to mar.
+  utter_right___left_reverse_bend:
+  - text: This sign provides information related to right   left reverse bend.
+  utter_the_sign_should_be_erected_whe:
+  - text: This sign provides information related to the sign should be erected whe.
+  utter_series_of_bends:
+  - text: This sign provides information related to series of bends.
+  utter_this_sign_should_be_used_to_ca:
+  - text: This sign provides information related to this sign should be used to ca.
+  utter_270_degree_loop:
+  - text: This sign provides information related to 270 degree loop.
+  utter_the_sign_shall_be_used_to_caut:
+  - text: This sign provides information related to the sign shall be used to caut.
+  utter_side_road:
+  - text: This sign provides information related to side road.
+  utter_the_sign_should_be_erected__fi:
+  - text: This sign provides information related to the sign should be erected  fi.
+  utter_y_intersection:
+  - text: This sign provides information related to y intersection.
+  utter_the_sign_should_be_erected_on:
+  - text: This sign provides information related to the sign should be erected on.
+  utter_cross_road:
+  - text: This sign provides information related to cross road.
+  utter_the_sign_should_be_erected_in:
+  - text: This sign provides information related to the sign should be erected in.
+  utter_together_with_restricted_sight:
+  - text: This sign provides information related to together with restricted sight.
+  utter_roundabout:
+  - text: This sign provides information related to roundabout.
+  utter_the_sign_should_be_used_where:
+  - text: This sign provides information related to the sign should be used where.
+  utter_traffic_signals:
+  - text: This sign provides information related to traffic signals.
+  utter_this_sign_can_be_used_to_cauti:
+  - text: This sign provides information related to this sign can be used to cauti.
+  utter_t_intersection:
+  - text: This sign provides information related to t intersection.
+  utter_major_road_ahead:
+  - text: This sign provides information related to major road ahead.
+  utter_staggered_intersection:
+  - text: This sign provides information related to staggered intersection.
+  utter_the_sign_should_be_used_to_ind:
+  - text: This sign provides information related to the sign should be used to ind.
+  utter_merging_traffic_ahead:
+  - text: This sign provides information related to merging traffic ahead.
+  utter_this_sign_is_posted_in_situati:
+  - text: This sign provides information related to this sign is posted in situati.
+  utter_narrow_road_ahead:
+  - text: This sign provides information related to narrow road ahead.
+  utter_road_widens:
+  - text: This sign provides information related to road widens.
+  utter_narrow_bridge_ahead:
+  - text: This sign provides information related to narrow bridge ahead.
+  utter_steep_ascent:
+  - text: This sign provides information related to steep ascent.
+  utter_the_sign_should_be_used_30_m_b:
+  - text: This sign provides information related to the sign should be used 30 m b.
+  utter_steep_descent:
+  - text: This sign provides information related to steep descent.
+  utter_reduced_carriageway:
+  - text: This sign provides information related to reduced carriageway.
+  utter_this_sign_is_used_to_caution_t:
+  - text: This sign provides information related to this sign is used to caution t.
+  utter_start_of_dual_carriageway:
+  - text: This sign provides information related to start of dual carriageway.
+  utter_this_sign_is_posted_when_a_sin:
+  - text: This sign provides information related to this sign is posted when a sin.
+  utter_end_of_dual_carriageway:
+  - text: This sign provides information related to end of dual carriageway.
+  utter_this_sign_is_posted_when_dual:
+  - text: This sign provides information related to this sign is posted when dual.
+  utter_gap_in_median:
+  - text: This sign provides information related to gap in median.
+  utter_the_sign_should_be_installed_a:
+  - text: This sign provides information related to the sign should be installed a.
+  utter_pedestrian_crossing:
+  - text: This sign provides information related to pedestrian crossing.
+  utter_15_33___supplementary_plate_indicating:
+  - text: This sign provides information related to 15 33   supplementary plate indicating.
+  utter_school_ahead:
+  - text: This sign provides information related to school ahead.
+  utter_built_up_area:
+  - text: This sign provides information related to built up area.
+  utter_two_way_operation:
+  - text: This sign provides information related to two way operation.
+  utter_two_way_traffic_on_cross_road:
+  - text: This sign provides information related to two way traffic on cross road.
+  utter_lane_closures:
+  - text: This sign provides information related to lane closures.
+  utter_traffic_diversion_on_dual_carr:
+  - text: This sign provides information related to traffic diversion on dual carr.
+  utter_this_sign_is_used_to_warn_the:
+  - text: This sign provides information related to this sign is used to warn the.
+  utter_people_at_work:
+  - text: This sign provides information related to people at work.
+  utter_the_sign_should_be_displayed_o:
+  - text: This sign provides information related to the sign should be displayed o.
+  utter_be_yellow_as_per_irc__sp_55:
+  - text: This sign provides information related to be yellow as per irc  sp 55.
+  utter_danger_warning_sign:
+  - text: This sign provides information related to danger warning sign.
+  utter_deaf_or_blind_persons_likely_o:
+  - text: This sign provides information related to deaf or blind persons likely o.
+  utter_this_sign_is_posted_only_near:
+  - text: This sign provides information related to this sign is posted only near.
+  utter_cycle_crossing:
+  - text: This sign provides information related to cycle crossing.
+  utter_cycle_route_ahead__warning_for:
+  - text: This sign provides information related to cycle route ahead  warning for.
+  utter_dangerous_dip:
+  - text: This sign provides information related to dangerous dip.
+  utter_speed_breaker:
+  - text: This sign provides information related to speed breaker.
+  utter_this_sign_should_be_used_to_wa:
+  - text: This sign provides information related to this sign should be used to wa.
+  utter_rumble_strip:
+  - text: This sign provides information related to rumble strip.
+  utter_the_sign_should_be_posted_at_a:
+  - text: This sign provides information related to the sign should be posted at a.
+  utter_rough_road:
+  - text: This sign provides information related to rough road.
+  utter_soft_verges:
+  - text: This sign provides information related to soft verges.
+  utter_the_sign_should_be_used_toward:
+  - text: This sign provides information related to the sign should be used toward.
+  utter_loose_gravel:
+  - text: This sign provides information related to loose gravel.
+  utter_the_sign_should_be_used_on_sec:
+  - text: This sign provides information related to the sign should be used on sec.
+  utter_slippery_road:
+  - text: This sign provides information related to slippery road.
+  utter_the_sign_should_be_erected_to:
+  - text: This sign provides information related to the sign should be erected to.
+  utter_slippery_road_because_of_ice:
+  - text: This sign provides information related to slippery road because of ice.
+  utter_opening_or_swing_bridge:
+  - text: This sign provides information related to opening or swing bridge.
+  utter_overhead_cable:
+  - text: This sign provides information related to overhead cable.
+  utter_play_ground_ahead:
+  - text: This sign provides information related to play ground ahead.
+  utter_quay_side_or_river_bank:
+  - text: This sign provides information related to quay side or river bank.
+  utter_barrier:
+  - text: This sign provides information related to barrier.
+  utter_rolling_terrain_and_30_to_60_m:
+  - text: This sign provides information related to rolling terrain and 30 to 60 m.
+  utter__barrier_ahead__may_be_replace:
+  - text: This sign provides information related to  barrier ahead  may be replace.
+  utter_sudden_side_winds:
+  - text: This sign provides information related to sudden side winds.
+  utter_tunnel_ahead_warning:
+  - text: This sign provides information related to tunnel ahead warning.
+  utter_the_sign_is_posted_in_situatio:
+  - text: This sign provides information related to the sign is posted in situatio.
+  utter_ferry:
+  - text: This sign provides information related to ferry.
+  utter_the_sign_is_intended_to_warn_t:
+  - text: This sign provides information related to the sign is intended to warn t.
+  utter_tram_crossing:
+  - text: This sign provides information related to tram crossing.
+  utter_falling_rocks:
+  - text: This sign provides information related to falling rocks.
+  utter_cattle_crossing:
+  - text: This sign provides information related to cattle crossing.
+  utter_wild_animals_likely_to_be_on_r:
+  - text: This sign provides information related to wild animals likely to be on r.
+  utter_queues_likely_ahead:
+  - text: This sign provides information related to queues likely ahead.
+  utter_low_flying_aircraft:
+  - text: This sign provides information related to low flying aircraft.
+  utter_this_sign_is_for_use_on_roads:
+  - text: This sign provides information related to this sign is for use on roads.
+  utter_unguarded_railway_crossing:
+  - text: This sign provides information related to unguarded railway crossing.
+  utter_the_sign_should_be_used_on_the:
+  - text: This sign provides information related to the sign should be used on the.
+  utter_guarded_railway_crossing:
+  - text: This sign provides information related to guarded railway crossing.
+  utter_the_sign_should_be_used_to_war:
+  - text: This sign provides information related to the sign should be used to war.
+  utter_crash_prone_area_ahead_sign:
+  - text: This sign provides information related to crash prone area ahead sign.
+  utter_the_sign_should_be_used_on_app:
+  - text: This sign provides information related to the sign should be used on app.
+  utter_u_turn_ahead_sign:
+  - text: This sign provides information related to u turn ahead sign.
+  utter_the_sign_shall_be_placed_about:
+  - text: This sign provides information related to the sign shall be placed about.
+  utter_chevron_signs:
+  - text: This sign provides information related to chevron signs.
+  utter_at_the_curved_alignment_of_a_r:
+  - text: This sign provides information related to at the curved alignment of a r.
+  utter_road_user_always_has_at_least:
+  - text: This sign provides information related to road user always has at least.
+  utter__if_deflection_angle_is_greate:
+  - text: This sign provides information related to  if deflection angle is greate.
+  utter_depending_upon_the_sharpness_o:
+  - text: This sign provides information related to depending upon the sharpness o.
+  utter_hazard_marker:
+  - text: This sign provides information related to hazard marker.
+  utter_roadside_hazard_like_bridges_:
+  - text: This sign provides information related to roadside hazard like bridges .
+  utter_informatory_signs:
+  - text: This sign provides information related to informatory signs.
+  utter_the_signs_illustrated_in_this:
+  - text: This sign provides information related to the signs illustrated in this.
+  utter_sizes_the_symbols_should_be_pr:
+  - text: This sign provides information related to sizes the symbols should be pr.
+  utter_the_signs_are_classified_under:
+  - text: This sign provides information related to the signs are classified under.
+  utter_direction_and_place_identifica:
+  - text: This sign provides information related to direction and place identifica.
+  utter_facility_information_signs:
+  - text: This sign provides information related to facility information signs.
+  utter_other_useful_information_signs:
+  - text: This sign provides information related to other useful information signs.
+  utter_parking_signs__and:
+  - text: This sign provides information related to parking signs  and.
+  utter_flood_gauge:
+  - text: This sign provides information related to flood gauge.
+  utter_the_following_are_the_function:
+  - text: This sign provides information related to the following are the function.
+  utter_it_should_give_drivers_advance:
+  - text: This sign provides information related to it should give drivers advance.
+  utter_it_should_indicate_the_type_of:
+  - text: This sign provides information related to it should indicate the type of.
+  utter_it_should_inform_them_of_the_d:
+  - text: This sign provides information related to it should inform them of the d.
+  utter_it_should_identify_the_route_a:
+  - text: This sign provides information related to it should identify the route a.
+  utter_shape__colour_and_language_of:
+  - text: This sign provides information related to shape  colour and language of.
+  utter_these_signs_shall_be_rectangul:
+  - text: This sign provides information related to these signs shall be rectangul.
+  utter_advance_direction_signs:
+  - text: This sign provides information related to advance direction signs.
+  utter_the_sign_indicates_the_routes:
+  - text: This sign provides information related to the sign indicates the routes.
+  utter_16_02_may_be_employed__in:
+  - text: This sign provides information related to 16 02 may be employed  in.
+  utter_table_16:
+  - text: This sign provides information related to table 16.
+  utter_advance_direction_signs_shall:
+  - text: This sign provides information related to advance direction signs shall.
+  utter_use_of_symbols:
+  - text: This sign provides information related to use of symbols.
+  utter_the_use_of_symbols_is_desirabl:
+  - text: This sign provides information related to the use of symbols is desirabl.
+  utter_airports:
+  - text: This sign provides information related to airports.
+  utter_ports_and_docks:
+  - text: This sign provides information related to ports and docks.
+  utter_industrial_zones:
+  - text: This sign provides information related to industrial zones.
+  utter_hospitals:
+  - text: This sign provides information related to hospitals.
+  utter_border_crossing_points:
+  - text: This sign provides information related to border crossing points.
+  utter_parking_areas__rest_areas:
+  - text: This sign provides information related to parking areas  rest areas.
+  utter_railway_stations:
+  - text: This sign provides information related to railway stations.
+  utter_park_and_ride_facilities:
+  - text: This sign provides information related to park and ride facilities.
+  utter_filling_stations:
+  - text: This sign provides information related to filling stations.
+  utter_service_areas_facilities__toil:
+  - text: This sign provides information related to service areas facilities  toil.
+  utter_entry_or_restriction_of_vehicl:
+  - text: This sign provides information related to entry or restriction of vehicl.
+  utter_expressway_symbol:
+  - text: This sign provides information related to expressway symbol.
+  utter_tourist_attractions_symbols__v:
+  - text: This sign provides information related to tourist attractions symbols  v.
+  utter_pick_up_and_drop_off:
+  - text: This sign provides information related to pick up and drop off.
+  utter_map_type_advance_direction_sig:
+  - text: This sign provides information related to map type advance direction sig.
+  utter_map_type_of_sign_is_designed_b:
+  - text: This sign provides information related to map type of sign is designed b.
+  utter_in_a_roundabout_junction_sign_:
+  - text: This sign provides information related to in a roundabout junction sign
+      .
+  utter_where_a_roundabout_is_offset_f:
+  - text: This sign provides information related to where a roundabout is offset f.
+  utter_siting_of_advance_direction_si:
+  - text: This sign provides information related to siting of advance direction si.
+  utter_junction_reference_point__the:
+  - text: This sign provides information related to junction reference point  the.
+  utter_in_the_case_of_interchange__th:
+  - text: This sign provides information related to in the case of interchange  th.
+  utter_stop_or_give_way_line:
+  - text: This sign provides information related to stop or give way line.
+  utter_the_point_at_which_the_carriag:
+  - text: This sign provides information related to the point at which the carriag.
+  utter_the_standard_distances_at_whic:
+  - text: This sign provides information related to the standard distances at whic.
+  utter_for_grade_separated_intersecti:
+  - text: This sign provides information related to for grade separated intersecti.
+  utter_stack_type_advance_direction_s:
+  - text: This sign provides information related to stack type advance direction s.
+  utter_stack_type_signs_are_intended:
+  - text: This sign provides information related to stack type signs are intended.
+  utter_both_the_arrow_and_the_panel_a:
+  - text: This sign provides information related to both the arrow and the panel a.
+  utter_arrows_may_be_vertical_or_hori:
+  - text: This sign provides information related to arrows may be vertical or hori.
+  utter_destination_ahead_with_vertica:
+  - text: This sign provides information related to destination ahead with vertica.
+  utter_destination_to_the_left_with_t:
+  - text: This sign provides information related to destination to the left with t.
+  utter_destination_to_the_right_with:
+  - text: This sign provides information related to destination to the right with.
+  utter_destination_sign:
+  - text: This sign provides information related to destination sign.
+  utter_the_sign_should_be_posted_in_a:
+  - text: This sign provides information related to the sign should be posted in a.
+  utter_direction_sign__flag_type_:
+  - text: This sign provides information related to direction sign  flag type .
+  utter_finger_type_signages_shall_be:
+  - text: This sign provides information related to finger type signages shall be.
+  utter_reassurance_sign_or_route_conf:
+  - text: This sign provides information related to reassurance sign or route conf.
+  utter_siting_of_reassurance_sign:
+  - text: This sign provides information related to siting of reassurance sign.
+  utter_it_should_be_placed_60_m_beyon:
+  - text: This sign provides information related to it should be placed 60 m beyon.
+  utter_the_names_of_the_destination_p:
+  - text: This sign provides information related to the names of the destination p.
+  utter_main_carriageway:
+  - text: This sign provides information related to main carriageway.
+  utter_place_identification:
+  - text: This sign provides information related to place identification.
+  utter_truck_lay_by:
+  - text: This sign provides information related to truck lay by.
+  utter_along_the_highways__the_provis:
+  - text: This sign provides information related to along the highways  the provis.
+  utter_toll_booth_ahead:
+  - text: This sign provides information related to toll booth ahead.
+  utter_the_sign_is_used_to_indicate_t:
+  - text: This sign provides information related to the sign is used to indicate t.
+  utter_weigh_bridge_ahead:
+  - text: This sign provides information related to weigh bridge ahead.
+  utter_gantry_mounted_signs:
+  - text: This sign provides information related to gantry mounted signs.
+  utter_the_gantry_mounted_signs_are_m:
+  - text: This sign provides information related to the gantry mounted signs are m.
+  utter_fig:
+  - text: This sign provides information related to fig.
+  utter_tourism_related_signs:
+  - text: This sign provides information related to tourism related signs.
+  utter_it_is_recommended_to_install_d:
+  - text: This sign provides information related to it is recommended to install d.
+  utter_tourist_destination_directiona:
+  - text: This sign provides information related to tourist destination directiona.
+  utter_finger_type_way_finding_signs:
+  - text: This sign provides information related to finger type way finding signs.
+  utter_map_boards_at_rest_areas_or_at:
+  - text: This sign provides information related to map boards at rest areas or at.
+  utter_facility_information_signs_rel:
+  - text: This sign provides information related to facility information signs rel.
+  utter_development_of_a_hierarchy_of:
+  - text: This sign provides information related to development of a hierarchy of.
+  utter_harmonization_of_signs:
+  - text: This sign provides information related to harmonization of signs.
+  utter_use_of_brown_and_white_colour:
+  - text: This sign provides information related to use of brown and white colour.
+  utter_on_primary_roads_or_access_con:
+  - text: This sign provides information related to on primary roads or access con.
+  utter_advance_direction_signs_for_to:
+  - text: This sign provides information related to advance direction signs for to.
+  utter_tourist_place___city_identific:
+  - text: This sign provides information related to tourist place   city identific.
+  utter_this_sign_can_be_used_on_all_t:
+  - text: This sign provides information related to this sign can be used on all t.
+  utter___monument_as_indicated_in_fig:
+  - text: This sign provides information related to   monument as indicated in fig.
+  utter_whenever_such_signing_is_propo:
+  - text: This sign provides information related to whenever such signing is propo.
+  utter_eating_place:
+  - text: This sign provides information related to eating place.
+  utter_light_refreshments:
+  - text: This sign provides information related to light refreshments.
+  utter_resting_place:
+  - text: This sign provides information related to resting place.
+  utter_first_aid_post:
+  - text: This sign provides information related to first aid post.
+  utter_the_sign_should_be_used_to_not:
+  - text: This sign provides information related to the sign should be used to not.
+  utter_toilet:
+  - text: This sign provides information related to toilet.
+  utter_filling_station__fuel_pump_:
+  - text: This sign provides information related to filling station  fuel pump .
+  utter_hospital:
+  - text: This sign provides information related to hospital.
+  utter_emergency_sos_telephone_facili:
+  - text: This sign provides information related to emergency sos telephone facili.
+  utter_this_sign_shall_be_used_at_reg:
+  - text: This sign provides information related to this sign shall be used at reg.
+  utter_u_turn_facility:
+  - text: This sign provides information related to u turn facility.
+  utter_this_sign_shall_be_positioned:
+  - text: This sign provides information related to this sign shall be positioned.
+  utter_pedestrian_subway:
+  - text: This sign provides information related to pedestrian subway.
+  utter_to_guide_the_pedestrian_traffi:
+  - text: This sign provides information related to to guide the pedestrian traffi.
+  utter_foot_over_bridge:
+  - text: This sign provides information related to foot over bridge.
+  utter_it_is_used_to_inform_pedestria:
+  - text: This sign provides information related to it is used to inform pedestria.
+  utter_chair_lift:
+  - text: This sign provides information related to chair lift.
+  utter_police_station:
+  - text: This sign provides information related to police station.
+  utter_the_sign_should_be_erected_at:
+  - text: This sign provides information related to the sign should be erected at.
+  utter_repair_facilities:
+  - text: This sign provides information related to repair facilities.
+  utter_railway_station_metro_station_:
+  - text: This sign provides information related to railway station metro station
+      .
+  utter_industrial_area:
+  - text: This sign provides information related to industrial area.
+  utter_cycle_rickshaw_stand:
+  - text: This sign provides information related to cycle rickshaw stand.
+  utter_taxi_stand:
+  - text: This sign provides information related to taxi stand.
+  utter_auto_rickshaw_stand:
+  - text: This sign provides information related to auto rickshaw stand.
+  utter_share_taxi_auto_and_other_info:
+  - text: This sign provides information related to share taxi auto and other info.
+  utter_this_sign_will_indicate_the_lo:
+  - text: This sign provides information related to this sign will indicate the lo.
+  utter_home_zone:
+  - text: This sign provides information related to home zone.
+  utter_camp_site:
+  - text: This sign provides information related to camp site.
+  utter_airport:
+  - text: This sign provides information related to airport.
+  utter_golf_course:
+  - text: This sign provides information related to golf course.
+  utter_national_heritage:
+  - text: This sign provides information related to national heritage.
+  utter_no_through_road:
+  - text: This sign provides information related to no through road.
+  utter_no_through_side_road:
+  - text: This sign provides information related to no through side road.
+  utter_toll_road_ahead:
+  - text: This sign provides information related to toll road ahead.
+  utter_this_sign_shall_provide_inform:
+  - text: This sign provides information related to this sign shall provide inform.
+  utter_guide_sign_for_etc_lane:
+  - text: This sign provides information related to guide sign for etc lane.
+  utter_this_sign_shall_be_used_to_inf:
+  - text: This sign provides information related to this sign shall be used to inf.
+  utter_country_border:
+  - text: This sign provides information related to country border.
+  utter_entry_ramp_for_expressway:
+  - text: This sign provides information related to entry ramp for expressway.
+  utter_the_sign_is_erected_where_ther:
+  - text: This sign provides information related to the sign is erected where ther.
+  utter_exit_ramp_for_expressway:
+  - text: This sign provides information related to exit ramp for expressway.
+  utter_this_sign_is_erected_at_entry:
+  - text: This sign provides information related to this sign is erected at entry.
+  utter_end_of_expressway:
+  - text: This sign provides information related to end of expressway.
+  utter_this_sign_is_erected_at_the_en:
+  - text: This sign provides information related to this sign is erected at the en.
+  utter_bus_stop:
+  - text: This sign provides information related to bus stop.
+  utter_bus_lane:
+  - text: This sign provides information related to bus lane.
+  utter_this_sign_is_installed_to_info:
+  - text: This sign provides information related to this sign is installed to info.
+  utter_contra_flow_bus_lane:
+  - text: This sign provides information related to contra flow bus lane.
+  utter_this_sign_is_installed_to_indi:
+  - text: This sign provides information related to this sign is installed to indi.
+  utter_cycle_lane:
+  - text: This sign provides information related to cycle lane.
+  utter_this_sign_provides_information:
+  - text: This sign provides information related to this sign provides information.
+  utter_contra_flow_cycle_lane:
+  - text: This sign provides information related to contra flow cycle lane.
+  utter_holiday_chalets:
+  - text: This sign provides information related to holiday chalets.
+  utter_emergency_exit_in_tunnel:
+  - text: This sign provides information related to emergency exit in tunnel.
+  utter_emergency_helpline_number:
+  - text: This sign provides information related to emergency helpline number.
+  utter_emergency_helpline_numbers_can:
+  - text: This sign provides information related to emergency helpline numbers can.
+  utter_emergency_lay_by:
+  - text: This sign provides information related to emergency lay by.
+  utter_the_sign_shall_be_placed_near:
+  - text: This sign provides information related to the sign shall be placed near.
+  utter_fire_extinguisher:
+  - text: This sign provides information related to fire extinguisher.
+  utter_this_sign_shall_be_used_near_t:
+  - text: This sign provides information related to this sign shall be used near t.
+  utter_rest_and_service_area_signs:
+  - text: This sign provides information related to rest and service area signs.
+  utter_pedestrian_crossing_informatio:
+  - text: This sign provides information related to pedestrian crossing informatio.
+  utter_this_sign_shall_be_used_at_cri:
+  - text: This sign provides information related to this sign shall be used at cri.
+  utter_speed_hump___speed_table_infor:
+  - text: This sign provides information related to speed hump   speed table infor.
+  utter_this_sign_shall_be_installed_a:
+  - text: This sign provides information related to this sign shall be installed a.
+  utter_electric_vehicle_charging_stat:
+  - text: This sign provides information related to electric vehicle charging stat.
+  utter_this_sign_shall_be_installed_n:
+  - text: This sign provides information related to this sign shall be installed n.
+  utter_parking_information_signs_and:
+  - text: This sign provides information related to parking information signs and.
+  utter_the_shape_and_colour_of_these:
+  - text: This sign provides information related to the shape and colour of these.
+  utter_parking_signs__fig:
+  - text: This sign provides information related to parking signs  fig.
+  utter_the_parking_sign__which_may_be:
+  - text: This sign provides information related to the parking sign  which may be.
+  utter_auto_rickshaw_parking:
+  - text: This sign provides information related to auto rickshaw parking.
+  utter_this_sign_will_indicate_auto_r:
+  - text: This sign provides information related to this sign will indicate auto r.
+  utter_cycle_parking:
+  - text: This sign provides information related to cycle parking.
+  utter_this_sign_will_indicate_cycle:
+  - text: This sign provides information related to this sign will indicate cycle.
+  utter_cycle_rickshaw_parking:
+  - text: This sign provides information related to cycle rickshaw parking.
+  utter_scooter_and_motorcycle_parking:
+  - text: This sign provides information related to scooter and motorcycle parking.
+  utter_this_sign_will_indicate_scoote:
+  - text: This sign provides information related to this sign will indicate scoote.
+  utter_car_taxi_parking:
+  - text: This sign provides information related to car taxi parking.
+  utter_this_sign_will_indicate_car_ta:
+  - text: This sign provides information related to this sign will indicate car ta.
+  utter_park_and_ride:
+  - text: This sign provides information related to park and ride.
+  utter_pickup_and_drop_point:
+  - text: This sign provides information related to pickup and drop point.
+  utter_this_sign_shall_be_erected_nea:
+  - text: This sign provides information related to this sign shall be erected nea.
+  utter_parking_restrictions_signs_for:
+  - text: This sign provides information related to parking restrictions signs for.
+  utter_flood_gauge_sign:
+  - text: This sign provides information related to flood gauge sign.
+  utter_signs_for_persons_with_disabil:
+  - text: This sign provides information related to signs for persons with disabil.
+  utter_the_international_symbol_of_ac:
+  - text: This sign provides information related to the international symbol of ac.
+  utter_parking_information:
+  - text: This sign provides information related to parking information.
+  utter_the_parking_area_should_be_ind:
+  - text: This sign provides information related to the parking area should be ind.
+  utter_ramped_entrance_to_subway_over:
+  - text: This sign provides information related to ramped entrance to subway over.
+  utter_these_signs_shall_inform_the_p:
+  - text: This sign provides information related to these signs shall inform the p.
+  utter_toilet_facility:
+  - text: This sign provides information related to toilet facility.
+  utter_the_toilet_area_should_be_indi:
+  - text: This sign provides information related to the toilet area should be indi.
+  utter_way_finding_sign_for_disabled:
+  - text: This sign provides information related to way finding sign for disabled.
+  utter_the_way_finding_sign_should_be:
+  - text: This sign provides information related to the way finding sign should be.
+  utter_enforcement_related_signs:
+  - text: This sign provides information related to enforcement related signs.
+  utter_these_signs_are_used_where_a_p:
+  - text: This sign provides information related to these signs are used where a p.
+  utter_surveillance_cameras:
+  - text: This sign provides information related to surveillance cameras.
+  utter_the_signs_given_under_this_sec:
+  - text: This sign provides information related to the signs given under this sec.
+  utter_red_light_violation_detection:
+  - text: This sign provides information related to red light violation detection.
+  utter_the_sign_is_to_be_installed_ne:
+  - text: This sign provides information related to the sign is to be installed ne.
+  utter_most_of_the_road_crashes_assoc:
+  - text: This sign provides information related to most of the road crashes assoc.
+  utter_stop_sign_violation:
+  - text: This sign provides information related to stop sign violation.
+  utter_many_road_crashes_occur_as_a_r:
+  - text: This sign provides information related to many road crashes occur as a r.
+  utter_speed_camera:
+  - text: This sign provides information related to speed camera.
+  utter_this_sign_is_to_be_installed_a:
+  - text: This sign provides information related to this sign is to be installed a.
+  utter_lane_discipline_information_si:
+  - text: This sign provides information related to lane discipline information si.
+  utter_vehicle_category_wise_and_spee:
+  - text: This sign provides information related to vehicle category wise and spee.
+  utter_tow_away_zones:
+  - text: This sign provides information related to tow away zones.
+  utter_tow_away_zones_where_parking_i:
+  - text: This sign provides information related to tow away zones where parking i.
+  utter_variable_message_signs:
+  - text: This sign provides information related to variable message signs.
+  utter_variable_message_signs__vms__a:
+  - text: This sign provides information related to variable message signs  vms  a.
+  utter_displays:
+  - text: This sign provides information related to displays.
+  utter_live_travel_time_between_desti:
+  - text: This sign provides information related to live travel time between desti.
+  utter_live_traffic_congestion:
+  - text: This sign provides information related to live traffic congestion.
+  utter_weather_updates:
+  - text: This sign provides information related to weather updates.
+  utter_alternate_routes:
+  - text: This sign provides information related to alternate routes.
+  utter_pollution_data:
+  - text: This sign provides information related to pollution data.
+  utter_variable_speed_limits:
+  - text: This sign provides information related to variable speed limits.
+  utter_event_notice_and_motorist_inst:
+  - text: This sign provides information related to event notice and motorist inst.
+  utter_crash_updates:
+  - text: This sign provides information related to crash updates.
+  utter_incident_management_via_emerge:
+  - text: This sign provides information related to incident management via emerge.
+  utter_directional_signs:
+  - text: This sign provides information related to directional signs.
+  utter_traffic_do_s_and_don_ts:
+  - text: This sign provides information related to traffic do s and don ts.
+  utter_warning___public_messages_etc:
+  - text: This sign provides information related to warning   public messages etc.
+  utter_smart_variable_message_signs_s:
+  - text: This sign provides information related to smart variable message signs s.
+  utter_figure_21:
+  - text: This sign provides information related to figure 21.
+  utter_to_get_the_detailed_specificat:
+  - text: This sign provides information related to to get the detailed specificat.
+  utter_route_marker_signs:
+  - text: This sign provides information related to route marker signs.
+  utter_route_marker_signs_are_propose:
+  - text: This sign provides information related to route marker signs are propose.
+  utter_uniform_shape_of_route_markers:
+  - text: This sign provides information related to uniform shape of route markers.
+  utter_colour_coded_and_simple_shape:
+  - text: This sign provides information related to colour coded and simple shape.
+  utter_prominence_given_to_number_of:
+  - text: This sign provides information related to prominence given to number of.
+  utter_state_highway_route_marker_sig:
+  - text: This sign provides information related to state highway route marker sig.
+  utter_the_state_highway_route_marker:
+  - text: This sign provides information related to the state highway route marker.
+  utter_from_the_junction__on_either_s:
+  - text: This sign provides information related to from the junction  on either s.
+  utter_definition_plate:
+  - text: This sign provides information related to definition plate.
+  utter_when_the_sign_is_erected_in_ad:
+  - text: This sign provides information related to when the sign is erected in ad.
+  utter_national_highway_route_marker:
+  - text: This sign provides information related to national highway route marker.
+  utter_the_national_highway_route_mar:
+  - text: This sign provides information related to the national highway route mar.
+  utter_the_sign_shall_be_erected_on_n:
+  - text: This sign provides information related to the sign shall be erected on n.
+  utter_asian_highway_route_marker_sig:
+  - text: This sign provides information related to asian highway route marker sig.
+  utter_the_asian_highway_route_marker:
+  - text: This sign provides information related to the asian highway route marker.
+  utter_the_sign_shall_be_erected_on_a:
+  - text: This sign provides information related to the sign shall be erected on a.
+  utter_expressway_route_marker_sign:
+  - text: This sign provides information related to expressway route marker sign.
+  utter_the_expressway_route_marker_si:
+  - text: This sign provides information related to the expressway route marker si.
+  utter_signs_for_expressways:
+  - text: This sign provides information related to signs for expressways.
+  utter_an_expressway_is_a_divided_hig:
+  - text: This sign provides information related to an expressway is a divided hig.
+  utter_signs_are_designed_so_that_the:
+  - text: This sign provides information related to signs are designed so that the.
+  utter_colour_of_signs:
+  - text: This sign provides information related to colour of signs.
+  utter_the_colour_of_all_type_of_sign:
+  - text: This sign provides information related to the colour of all type of sign.
+  utter_format_of_legends_on_overhead:
+  - text: This sign provides information related to format of legends on overhead.
+  utter_the_legend_on_all_signboards_s:
+  - text: This sign provides information related to the legend on all signboards s.
+  utter_table_23:
+  - text: This sign provides information related to table 23.
+  utter_warrants_for_sign_installation:
+  - text: This sign provides information related to warrants for sign installation.
+  utter_the_siting_of_regulatory_and_w:
+  - text: This sign provides information related to the siting of regulatory and w.
+  utter_sizes_of_the_signs:
+  - text: This sign provides information related to sizes of the signs.
+  utter_sizes_of_the_signs_should_be_d:
+  - text: This sign provides information related to sizes of the signs should be d.
+  utter_siting_of_the_signs_with_respe:
+  - text: This sign provides information related to siting of the signs with respe.
+  utter_generally__siting_of_the_signs:
+  - text: This sign provides information related to generally  siting of the signs.
+  utter_size_of_letters_should_be_as_p:
+  - text: This sign provides information related to size of letters should be as p.
+  utter_for_supplementary_plates_attac:
+  - text: This sign provides information related to for supplementary plates attac.
+  utter_guidelines_for_informatory_sig:
+  - text: This sign provides information related to guidelines for informatory sig.
+  utter_general_guidelines_given_in_se:
+  - text: This sign provides information related to general guidelines given in se.
+  utter_direction_signs:
+  - text: This sign provides information related to direction signs.
+  utter_the_direction_signs_should_be:
+  - text: This sign provides information related to the direction signs should be.
+  utter_exit_direction_signs:
+  - text: This sign provides information related to exit direction signs.
+  utter_the_exit_direction_sign_repeat:
+  - text: This sign provides information related to the exit direction sign repeat.
+  utter_distance_signs:
+  - text: This sign provides information related to distance signs.
+  utter_distances_to_the_same_destinat:
+  - text: This sign provides information related to distances to the same destinat.
+  utter_signs_for_urban_and_city_roads:
+  - text: This sign provides information related to signs for urban and city roads.
+  utter_the_signing_system_for_urban_a:
+  - text: This sign provides information related to the signing system for urban a.
+  utter_the_colour_of_all_types_of_sig:
+  - text: This sign provides information related to the colour of all types of sig.
+  utter_table_24:
+  - text: This sign provides information related to table 24.
+  utter_the_placement_of_regulatory_an:
+  - text: This sign provides information related to the placement of regulatory an.
+  utter_generally__placement_of_the_si:
+  - text: This sign provides information related to generally  placement of the si.
+  utter_other_direction_signs_and_faci:
+  - text: This sign provides information related to other direction signs and faci.
+  utter_signs_like_finger_type_way_fin:
+  - text: This sign provides information related to signs like finger type way fin.
+  utter_gantry_mounted_signs_given_in:
+  - text: This sign provides information related to gantry mounted signs given in.
+  utter_toll_plaza_related_signs:
+  - text: This sign provides information related to toll plaza related signs.
+  utter_these_signs_include_the_inform:
+  - text: This sign provides information related to these signs include the inform.
+  utter_user_fee_notifications_boards:
+  - text: This sign provides information related to user fee notifications boards.
+  utter_these_include_the_following_bo:
+  - text: This sign provides information related to these include the following bo.
+  utter_user_fee_information_board___p:
+  - text: This sign provides information related to user fee information board   p.
+  utter_user_fee_information_board_in:
+  - text: This sign provides information related to user fee information board in.
+  utter_user_fee_concession_informatio:
+  - text: This sign provides information related to user fee concession informatio.
+  utter_exempted_dignitaries_board_in:
+  - text: This sign provides information related to exempted dignitaries board in.
+  utter_exempted_vehicles_board_in_eng:
+  - text: This sign provides information related to exempted vehicles board in eng.
+  utter_in_case_of_national_highways_:
+  - text: This sign provides information related to in case of national highways .
+  utter_no__of_lanes___2_4_6:
+  - text: This sign provides information related to no  of lanes   2 4 6.
+  utter_toll_rate_sign_user_fee_inform:
+  - text: This sign provides information related to toll rate sign user fee inform.
+  utter_low_speed___2656_mm_x_2474_mm:
+  - text: This sign provides information related to low speed   2656 mm x 2474 mm.
+  utter_high_speed___4426_mm_x_4123_mm:
+  - text: This sign provides information related to high speed   4426 mm x 4123 mm.
+  utter_other_sign_boards_concession_:
+  - text: This sign provides information related to other sign boards concession .
+  utter_black_spot_related_signs:
+  - text: This sign provides information related to black spot related signs.
+  utter_crash_prone_area_informatory_s:
+  - text: This sign provides information related to crash prone area informatory s.
+  utter_figure_26:
+  - text: This sign provides information related to figure 26.
+  utter_sign_plan_examples_for_typical:
+  - text: This sign provides information related to sign plan examples for typical.
+  utter_sign_plans_for_some_typical_si:
+  - text: This sign provides information related to sign plans for some typical si.
+  utter_sign_plan_for_curve_delineatio:
+  - text: This sign provides information related to sign plan for curve delineatio.
+  utter____:
+  - text: This sign provides information related to    .
+  utter__30__40__mm:
+  - text: This sign provides information related to  30  40  mm.
+  utter_750_mm:
+  - text: This sign provides information related to 750 mm.
+  utter__900_mm_:
+  - text: This sign provides information related to  900 mm .
+  utter__1200__mm:
+  - text: This sign provides information related to  1200  mm.
+  utter_900_mm:
+  - text: This sign provides information related to 900 mm.
+  utter__600_mm_:
+  - text: This sign provides information related to  600 mm .
+  utter__750_mm_:
+  - text: This sign provides information related to  750 mm .
+  utter__1200_mm_:
+  - text: This sign provides information related to  1200 mm .
+  utter__1500_mm_:
+  - text: This sign provides information related to  1500 mm .
+  utter_fig_14:
+  - text: This sign provides information related to fig 14.
+  utter_definition_plate_to_fig_14:
+  - text: This sign provides information related to definition plate to fig 14.
+  utter_90_mm:
+  - text: This sign provides information related to 90 mm.
+  utter_1140_mm:
+  - text: This sign provides information related to 1140 mm.
+  utter_90_mm_90_mm:
+  - text: This sign provides information related to 90 mm 90 mm.
+  utter_mm:
+  - text: This sign provides information related to mm.
+  utter_2130_mm:
+  - text: This sign provides information related to 2130 mm.
+  utter_90_mm_90_mm_90_mm:
+  - text: This sign provides information related to 90 mm 90 mm 90 mm.
+  utter_900_mm__600_mm_:
+  - text: This sign provides information related to 900 mm  600 mm .
+  utter__10__mm:
+  - text: This sign provides information related to  10  mm.
+  utter__20__mm:
+  - text: This sign provides information related to  20  mm.
+  utter__25__mm:
+  - text: This sign provides information related to  25  mm.
+  utter__40__mm:
+  - text: This sign provides information related to  40  mm.
+  utter__50__mm:
+  - text: This sign provides information related to  50  mm.
+  utter_30:
+  - text: This sign provides information related to 30.
+  utter__300_mm_:
+  - text: This sign provides information related to  300 mm .
+  utter__1500__mm:
+  - text: This sign provides information related to  1500  mm.
+  utter_150_mm:
+  - text: This sign provides information related to 150 mm.
+  utter_radius___45_mm:
+  - text: This sign provides information related to radius   45 mm.
+  utter__30_mm_:
+  - text: This sign provides information related to  30 mm .
+  utter__37:
+  - text: This sign provides information related to  37.
+  utter__60_mm_:
+  - text: This sign provides information related to  60 mm .
+  utter__75_mm_:
+  - text: This sign provides information related to  75 mm .
+  utter_fig_15:
+  - text: This sign provides information related to fig 15.
+  utter_300_mm_300_mm:
+  - text: This sign provides information related to 300 mm 300 mm.
+  utter_160_mm:
+  - text: This sign provides information related to 160 mm.
+  utter_plate___iii__continued_:
+  - text: This sign provides information related to plate   iii  continued .
+  utter_r_2_s_w:
+  - text: This sign provides information related to r 2 s w.
+  utter_2_5_s_w_2_5_s_w_2_5:
+  - text: This sign provides information related to 2 5 s w 2 5 s w 2 5.
+  utter_1_5_s_w:
+  - text: This sign provides information related to 1 5 s w.
+  utter_2km:
+  - text: This sign provides information related to 2km.
+  utter_2_5_s_w:
+  - text: This sign provides information related to 2 5 s w.
+  utter_figure_16:
+  - text: This sign provides information related to figure 16.
+  utter________________:
+  - text: This sign provides information related to                .
+  utter_bhutanatha_temple:
+  - text: This sign provides information related to bhutanatha temple.
+  utter____________:
+  - text: This sign provides information related to            .
+  utter_badami_fort:
+  - text: This sign provides information related to badami fort.
+  utter__15_mm_:
+  - text: This sign provides information related to  15 mm .
+  utter__450_mm_:
+  - text: This sign provides information related to  450 mm .
+  utter_fig_17:
+  - text: This sign provides information related to fig 17.
+  utter_17_13_police_station_fig__17_14:
+  - text: This sign provides information related to 17 13 police station fig  17 14.
+  utter_25:
+  - text: This sign provides information related to 25.
+  utter_17_15_railway_station_metro_monorail_station:
+  - text: This sign provides information related to 17 15 railway station metro monorail
+      station.
+  utter_17_16_industrial_area:
+  - text: This sign provides information related to 17 16 industrial area.
+  utter_et_c:
+  - text: This sign provides information related to et c.
+  utter_25___25:
+  - text: This sign provides information related to 25   25.
+  utter_600_mm:
+  - text: This sign provides information related to 600 mm.
+  utter_800_mm:
+  - text: This sign provides information related to 800 mm.
+  utter_3500_mm_1750_mm:
+  - text: This sign provides information related to 3500 mm 1750 mm.
+  utter_2400_mm_950_mm:
+  - text: This sign provides information related to 2400 mm 950 mm.
+  utter_20:
+  - text: This sign provides information related to 20.
+  utter_mm__1200_mm_:
+  - text: This sign provides information related to mm  1200 mm .
+  utter_fig_18:
+  - text: This sign provides information related to fig 18.
+  utter_2175_mm:
+  - text: This sign provides information related to 2175 mm.
+  utter_615_mm:
+  - text: This sign provides information related to 615 mm.
+  utter_40_mm:
+  - text: This sign provides information related to 40 mm.
+  utter_25___25___25:
+  - text: This sign provides information related to 25   25   25.
+  utter_fig_20:
+  - text: This sign provides information related to fig 20.
+  utter_0_1_d:
+  - text: This sign provides information related to 0 1 d.
+  utter_0_125_d:
+  - text: This sign provides information related to 0 125 d.
+  utter_11250_mm:
+  - text: This sign provides information related to 11250 mm.
+  utter_2860:
+  - text: This sign provides information related to 2860.
+  utter_2000_mm:
+  - text: This sign provides information related to 2000 mm.
+  utter_lane___3_h:
+  - text: This sign provides information related to lane   3 h.
+  utter_3500_mm:
+  - text: This sign provides information related to 3500 mm.
+  utter_lane___2_l:
+  - text: This sign provides information related to lane   2 l.
+  utter_lane___1_l:
+  - text: This sign provides information related to lane   1 l.
+  utter_overtaking:
+  - text: This sign provides information related to overtaking.
+  utter_1350_mm:
+  - text: This sign provides information related to 1350 mm.
+  utter_fig_22:
+  - text: This sign provides information related to fig 22.
+  utter_figure_24:
+  - text: This sign provides information related to figure 24.
+  utter_fig_25:
+  - text: This sign provides information related to fig 25.
+  utter_annexure:
+  - text: This sign provides information related to annexure.
+  utter__i_to_viii_:
+  - text: This sign provides information related to  i to viii .
+  utter_annexure___i:
+  - text: This sign provides information related to annexure   i.
+  utter__section_14:
+  - text: This sign provides information related to  section 14.
+  utter_list_of_mandatory___regulatory:
+  - text: This sign provides information related to list of mandatory   regulatory.
+  utter_stop_and_give_way_sign:
+  - text: This sign provides information related to stop and give way sign.
+  utter_stop:
+  - text: This sign provides information related to stop.
+  utter_give_way:
+  - text: This sign provides information related to give way.
+  utter_give_way_to_buses_exiting_the:
+  - text: This sign provides information related to give way to buses exiting the.
+  utter_bullock_and_hand_carts_prohibi:
+  - text: This sign provides information related to bullock and hand carts prohibi.
+  utter_construction_vehicle_prohibite:
+  - text: This sign provides information related to construction vehicle prohibite.
+  utter_two_wheeler_prohibited:
+  - text: This sign provides information related to two wheeler prohibited.
+  utter_pedestrian_prohibited:
+  - text: This sign provides information related to pedestrian prohibited.
+  utter_horn_prohibited:
+  - text: This sign provides information related to horn prohibited.
+  utter_no_entry:
+  - text: This sign provides information related to no entry.
+  utter_left_turn_prohibited:
+  - text: This sign provides information related to left turn prohibited.
+  utter_right_turn_prohibited:
+  - text: This sign provides information related to right turn prohibited.
+  utter_priority_to_vehicles_from_the:
+  - text: This sign provides information related to priority to vehicles from the.
+  utter_free_left_turn_prohibited_at_s:
+  - text: This sign provides information related to free left turn prohibited at s.
+  utter_no_parking_and_no_stopping_sig:
+  - text: This sign provides information related to no parking and no stopping sig.
+  utter_no_standing:
+  - text: This sign provides information related to no standing.
+  utter_no_stopping_and_no_standing:
+  - text: This sign provides information related to no stopping and no standing.
+  utter_definition_plate_to_fig:
+  - text: This sign provides information related to definition plate to fig.
+  utter_no_parking:
+  - text: This sign provides information related to no parking.
+  utter_vehicle_control_sign_and_speed:
+  - text: This sign provides information related to vehicle control sign and speed.
+  utter_maximum_speed_limit__vehicle_t:
+  - text: This sign provides information related to maximum speed limit  vehicle t.
+  utter_restriction_ends_sign:
+  - text: This sign provides information related to restriction ends sign.
+  utter_restriction_ends:
+  - text: This sign provides information related to restriction ends.
+  utter_compulsory_control_andother_si:
+  - text: This sign provides information related to compulsory control andother si.
+  utter_compulsory_ahead:
+  - text: This sign provides information related to compulsory ahead.
+  utter_compulsory_ahead_or_right_turn:
+  - text: This sign provides information related to compulsory ahead or right turn.
+  utter_compulsory_ahead_or_left_turn:
+  - text: This sign provides information related to compulsory ahead or left turn.
+  utter_compulsory_turn_right:
+  - text: This sign provides information related to compulsory turn right.
+  utter_compulsory_turn_left:
+  - text: This sign provides information related to compulsory turn left.
+  utter_priority_to_vehicles_from_righ:
+  - text: This sign provides information related to priority to vehicles from righ.
+  utter_compulsory_turn_right__in_adva:
+  - text: This sign provides information related to compulsory turn right  in adva.
+  utter_compulsory_turn_left__in_advan:
+  - text: This sign provides information related to compulsory turn left  in advan.
+  utter_compulsory_keep_left:
+  - text: This sign provides information related to compulsory keep left.
+  utter_compulsory_keep_right:
+  - text: This sign provides information related to compulsory keep right.
+  utter_compulsory_cycle_track_cycle_o:
+  - text: This sign provides information related to compulsory cycle track cycle o.
+  utter_pedestrian_only:
+  - text: This sign provides information related to pedestrian only.
+  utter_bus_way_buses_only:
+  - text: This sign provides information related to bus way buses only.
+  utter_annexure___ii:
+  - text: This sign provides information related to annexure   ii.
+  utter__section_15:
+  - text: This sign provides information related to  section 15.
+  utter_list_of_cautionary___warning_s:
+  - text: This sign provides information related to list of cautionary   warning s.
+  utter_left_hand_curve:
+  - text: This sign provides information related to left hand curve.
+  utter_left_side_road_on_left_curve:
+  - text: This sign provides information related to left side road on left curve.
+  utter_right_side_road_on_left_curve:
+  - text: This sign provides information related to right side road on left curve.
+  utter_cross_road_on_left_curve:
+  - text: This sign provides information related to cross road on left curve.
+  utter_staggered_intersection_on_left:
+  - text: This sign provides information related to staggered intersection on left.
+  utter_right_hand_curve:
+  - text: This sign provides information related to right hand curve.
+  utter_left_side_road_on_right_curve:
+  - text: This sign provides information related to left side road on right curve.
+  utter_right_side_road_on_right_curve:
+  - text: This sign provides information related to right side road on right curve.
+  utter_cross_road_on_right_curve:
+  - text: This sign provides information related to cross road on right curve.
+  utter_staggered_intersection_on_righ:
+  - text: This sign provides information related to staggered intersection on righ.
+  utter_right_hairpin_bend:
+  - text: This sign provides information related to right hairpin bend.
+  utter_left_hairpin_bend:
+  - text: This sign provides information related to left hairpin bend.
+  utter_right_reverse_bend:
+  - text: This sign provides information related to right reverse bend.
+  utter_left_reverse_bend:
+  - text: This sign provides information related to left reverse bend.
+  utter_series_of_bend:
+  - text: This sign provides information related to series of bend.
+  utter_degree_loop:
+  - text: This sign provides information related to degree loop.
+  utter_side_road_right:
+  - text: This sign provides information related to side road right.
+  utter_side_road_left:
+  - text: This sign provides information related to side road left.
+  utter_t_intersection_major_road_ahea:
+  - text: This sign provides information related to t intersection major road ahea.
+  utter_merging_traffic_ahead__from_le:
+  - text: This sign provides information related to merging traffic ahead  from le.
+  utter_merging_traffic_ahead__from_ri:
+  - text: This sign provides information related to merging traffic ahead  from ri.
+  utter_reduced_carriageway__left_lane:
+  - text: This sign provides information related to reduced carriageway  left lane.
+  utter_reduced_carriageway__right_lan:
+  - text: This sign provides information related to reduced carriageway  right lan.
+  utter_lane_closed__two_lane_carriage:
+  - text: This sign provides information related to lane closed  two lane carriage.
+  utter_lane_closed__three_lane_carria:
+  - text: This sign provides information related to lane closed  three lane carria.
+  utter_lane_closed__four_lane_carriag:
+  - text: This sign provides information related to lane closed  four lane carriag.
+  utter_traffic_diversion_on_lane_carr:
+  - text: This sign provides information related to traffic diversion on lane carr.
+  utter_49___supplementary_plate__end_:
+  - text: This sign provides information related to 49   supplementary plate  end
+      .
+  utter_danger_warning:
+  - text: This sign provides information related to danger warning.
+  utter_deaf_persons_likely_on_road_ah:
+  - text: This sign provides information related to deaf persons likely on road ah.
+  utter_blind_persons_likely_on_road_a:
+  - text: This sign provides information related to blind persons likely on road a.
+  utter_cycling_route_ahead:
+  - text: This sign provides information related to cycling route ahead.
+  utter_overhead_cables:
+  - text: This sign provides information related to overhead cables.
+  utter_playground_ahead:
+  - text: This sign provides information related to playground ahead.
+  utter_tunnel_ahead:
+  - text: This sign provides information related to tunnel ahead.
+  utter_trams_crossing:
+  - text: This sign provides information related to trams crossing.
+  utter_wild_animal:
+  - text: This sign provides information related to wild animal.
+  utter_crash_prone_area_ahead:
+  - text: This sign provides information related to crash prone area ahead.
+  utter_u_turn_ahead:
+  - text: This sign provides information related to u turn ahead.
+  utter_single_chevron__normal_:
+  - text: This sign provides information related to single chevron  normal .
+  utter_single_chevron___100kmph_speed:
+  - text: This sign provides information related to single chevron   100kmph speed.
+  utter_double_chevron:
+  - text: This sign provides information related to double chevron.
+  utter_triple_chevron:
+  - text: This sign provides information related to triple chevron.
+  utter_object_hazard__left_:
+  - text: This sign provides information related to object hazard  left .
+  utter_object_hazard__right_:
+  - text: This sign provides information related to object hazard  right .
+  utter_two_way_hazard_marker:
+  - text: This sign provides information related to two way hazard marker.
+  utter_annexure___iii:
+  - text: This sign provides information related to annexure   iii.
+  utter__section_16:
+  - text: This sign provides information related to  section 16.
+  utter_rules_and_technical_advisory_f:
+  - text: This sign provides information related to rules and technical advisory f.
+  utter_annexure_iii_is_divided_into_t:
+  - text: This sign provides information related to annexure iii is divided into t.
+  utter_list_of_direction_and_place_id:
+  - text: This sign provides information related to list of direction and place id.
+  utter_map_type_advance_directions_si:
+  - text: This sign provides information related to map type advance directions si.
+  utter_flag_type_direction_sign_fig:
+  - text: This sign provides information related to flag type direction sign fig.
+  utter_reassurance_sign_fig_16:
+  - text: This sign provides information related to reassurance sign fig 16.
+  utter_place_identification_sign_fig:
+  - text: This sign provides information related to place identification sign fig.
+  utter_truck_lay_by_fig_16:
+  - text: This sign provides information related to truck lay by fig 16.
+  utter_toll_booth_ahead_fig_16:
+  - text: This sign provides information related to toll booth ahead fig 16.
+  utter_weigh_bridge_ahead_fig_16:
+  - text: This sign provides information related to weigh bridge ahead fig 16.
+  utter_gantry_mounted_advance_directi:
+  - text: This sign provides information related to gantry mounted advance directi.
+  utter_fig_16:
+  - text: This sign provides information related to fig 16.
+  utter_gantry_mounted_sign_far_advanc:
+  - text: This sign provides information related to gantry mounted sign far advanc.
+  utter_lane_dedicated_gantry_signs_fi:
+  - text: This sign provides information related to lane dedicated gantry signs fi.
+  utter_shoulder_mounted_sign_in_advan:
+  - text: This sign provides information related to shoulder mounted sign in advan.
+  utter_expressway_sign_fig:
+  - text: This sign provides information related to expressway sign fig.
+  utter_definition___supplementary_pla:
+  - text: This sign provides information related to definition   supplementary pla.
+  utter_boundary_sign_at_entrance_to_a:
+  - text: This sign provides information related to boundary sign at entrance to a.
+  utter_finger_type_signages_for_pedes:
+  - text: This sign provides information related to finger type signages for pedes.
+  utter_landmark_identification_sign_:
+  - text: This sign provides information related to landmark identification sign .
+  utter_street_name_board__fig_24:
+  - text: This sign provides information related to street name board  fig 24.
+  utter_toll_plaza_related_signs__fig:
+  - text: This sign provides information related to toll plaza related signs  fig.
+  utter_rules_for_design_of_direction:
+  - text: This sign provides information related to rules for design of direction.
+  utter_the_rules_for_design_of_direct:
+  - text: This sign provides information related to the rules for design of direct.
+  utter_alphabets:
+  - text: This sign provides information related to alphabets.
+  utter_the__transport_medium__font_sh:
+  - text: This sign provides information related to the  transport medium  font sh.
+  utter_common_principles_for_design_o:
+  - text: This sign provides information related to common principles for design o.
+  utter_the_common_principles_to_be_ob:
+  - text: This sign provides information related to the common principles to be ob.
+  utter_the_height_mentioned_in_table:
+  - text: This sign provides information related to the height mentioned in table.
+  utter_the_design_pattern_shown_in_fi:
+  - text: This sign provides information related to the design pattern shown in fi.
+  utter_all_place_names_on_a_sign_shal:
+  - text: This sign provides information related to all place names on a sign shal.
+  utter_letters_are_generally_placed_i:
+  - text: This sign provides information related to letters are generally placed i.
+  utter_related_words_on_the_same_line:
+  - text: This sign provides information related to related words on the same line.
+  utter_route_letters_and_route_number:
+  - text: This sign provides information related to route letters and route number.
+  utter_route_letters_shall_be_2_s_w_a:
+  - text: This sign provides information related to route letters shall be 2 s w a.
+  utter_there_shall_be_3_s_w_spaces_be:
+  - text: This sign provides information related to there shall be 3 s w spaces be.
+  utter_the_border_shall_be_1___s_w_wi:
+  - text: This sign provides information related to the border shall be 1   s w wi.
+  utter_internal_corner_radius_of_oute:
+  - text: This sign provides information related to internal corner radius of oute.
+  utter_within_panel__the_borders_shal:
+  - text: This sign provides information related to within panel  the borders shal.
+  utter_for_gantry_mounted_directions:
+  - text: This sign provides information related to for gantry mounted directions.
+  utter_for_inclusion_of_cautionary_an:
+  - text: This sign provides information related to for inclusion of cautionary an.
+  utter_be_placed_between_the_destinat:
+  - text: This sign provides information related to be placed between the destinat.
+  utter_the_distance_to_the_destinatio:
+  - text: This sign provides information related to the distance to the destinatio.
+  utter_in_addition_to_the_common_prin:
+  - text: This sign provides information related to in addition to the common prin.
+  utter_layouts_of_stack_type_advance:
+  - text: This sign provides information related to layouts of stack type advance.
+  utter_forward_destination_and_arrow:
+  - text: This sign provides information related to forward destination and arrow.
+  utter_left_destination_and_arrow_sha:
+  - text: This sign provides information related to left destination and arrow sha.
+  utter_right_destination_and_arrow_sh:
+  - text: This sign provides information related to right destination and arrow sh.
+  utter_the_arrows_other_than_the_righ:
+  - text: This sign provides information related to the arrows other than the righ.
+  utter_figured_kilometre_if_at_all_gi:
+  - text: This sign provides information related to figured kilometre if at all gi.
+  utter_the_arrow_shall_also_be_transp:
+  - text: This sign provides information related to the arrow shall also be transp.
+  utter_the_font_height_for_different:
+  - text: This sign provides information related to the font height for different.
+  utter_layouts_of_map_type_ads__fig:
+  - text: This sign provides information related to layouts of map type ads  fig.
+  utter_the_width_of_route_symbol_shal:
+  - text: This sign provides information related to the width of route symbol shal.
+  utter_the_tips_of_route_symbol_shall:
+  - text: This sign provides information related to the tips of route symbol shall.
+  utter_side_turning_symbol_shall_be_e:
+  - text: This sign provides information related to side turning symbol shall be e.
+  utter_when_there_is_more_than_one_de:
+  - text: This sign provides information related to when there is more than one de.
+  utter_forward_destination_shall_be_c:
+  - text: This sign provides information related to forward destination shall be c.
+  utter_the_map_type_signs_with_only_o:
+  - text: This sign provides information related to the map type signs with only o.
+  utter_back_and_side_destinations_sha:
+  - text: This sign provides information related to back and side destinations sha.
+  utter_there_shall_be_a_minimum_of_4:
+  - text: This sign provides information related to there shall be a minimum of 4.
+  utter_forward_symbol_shall_be_minimu:
+  - text: This sign provides information related to forward symbol shall be minimu.
+  utter_the_bottom_of_forward_symbol_s:
+  - text: This sign provides information related to the bottom of forward symbol s.
+  utter_forward_destination_shall_be_e:
+  - text: This sign provides information related to forward destination shall be e.
+  utter_on_signs_with_one_side_turning:
+  - text: This sign provides information related to on signs with one side turning.
+  utter_the_roundabout_symbol_shall_ha:
+  - text: This sign provides information related to the roundabout symbol shall ha.
+  utter_there_shall_be_a_minimum_of_2:
+  - text: This sign provides information related to there shall be a minimum of 2.
+  utter_layouts_of_flag_type_direction:
+  - text: This sign provides information related to layouts of flag type direction.
+  utter_the_appropriate_end_of_sign_pl:
+  - text: This sign provides information related to the appropriate end of sign pl.
+  utter_the_chevron_shall_be_placed_3:
+  - text: This sign provides information related to the chevron shall be placed 3.
+  utter_place_name_shall_be_separated:
+  - text: This sign provides information related to place name shall be separated.
+  utter_the_width_of_chevron_shall_be:
+  - text: This sign provides information related to the width of chevron shall be.
+  utter_layouts_of_reassurance_sign__f:
+  - text: This sign provides information related to layouts of reassurance sign  f.
+  utter_the_kilometrage_shall_be_centr:
+  - text: This sign provides information related to the kilometrage shall be centr.
+  utter_place_names_shall_be_aligned_l:
+  - text: This sign provides information related to place names shall be aligned l.
+  utter_kilometrage_shall_follow_relat:
+  - text: This sign provides information related to kilometrage shall follow relat.
+  utter_the_nearest_destination_shall:
+  - text: This sign provides information related to the nearest destination shall.
+  utter_layouts_of_place_identificatio:
+  - text: This sign provides information related to layouts of place identificatio.
+  utter_the_lines_of_legend_shall_be_c:
+  - text: This sign provides information related to the lines of legend shall be c.
+  utter_layouts_of_truck_lay_by_sign__:
+  - text: This sign provides information related to layouts of truck lay by sign  .
+  utter_the_length_of_truck_symbol_sha:
+  - text: This sign provides information related to the length of truck symbol sha.
+  utter_the_arrow_shall_be_3_s_w_from:
+  - text: This sign provides information related to the arrow shall be 3 s w from.
+  utter_the_arrow_shall_be_20_s_w_high:
+  - text: This sign provides information related to the arrow shall be 20 s w high.
+  utter_layouts_of_toll_booth_ahead_si:
+  - text: This sign provides information related to layouts of toll booth ahead si.
+  utter_the_height_of_barrier_symbol_s:
+  - text: This sign provides information related to the height of barrier symbol s.
+  utter_the_arrow_shall_be_16_s_w_and:
+  - text: This sign provides information related to the arrow shall be 16 s w and.
+  utter_layouts_of_weigh_bridge_ahead:
+  - text: This sign provides information related to layouts of weigh bridge ahead.
+  utter_the_truck_symbol_shall_be_16_s:
+  - text: This sign provides information related to the truck symbol shall be 16 s.
+  utter_layouts_of_gantry_mounted_ads:
+  - text: This sign provides information related to layouts of gantry mounted ads.
+  utter_there_shall_be_dividing_line_o:
+  - text: This sign provides information related to there shall be dividing line o.
+  utter_the_lettering_on_both_sides_sh:
+  - text: This sign provides information related to the lettering on both sides sh.
+  utter_if_kilometrage_is_shown__it_sh:
+  - text: This sign provides information related to if kilometrage is shown  it sh.
+  utter_the_top_panel_shall_for_destin:
+  - text: This sign provides information related to the top panel shall for destin.
+  utter_the_distance_to_exit_point_sha:
+  - text: This sign provides information related to the distance to exit point sha.
+  utter_layouts_of_lane_dedicated_gant:
+  - text: This sign provides information related to layouts of lane dedicated gant.
+  utter_the_downward_arrow_shall_be_17:
+  - text: This sign provides information related to the downward arrow shall be 17.
+  utter_the_distance_between_two_downw:
+  - text: This sign provides information related to the distance between two downw.
+  utter_layouts_of_shoulder_mounted_ma:
+  - text: This sign provides information related to layouts of shoulder mounted ma.
+  utter_length_of_left_route_symbol_is:
+  - text: This sign provides information related to length of left route symbol is.
+  utter_expressway_ahead_sign__fig:
+  - text: This sign provides information related to expressway ahead sign  fig.
+  utter_the_expressway_symbol_shall_be:
+  - text: This sign provides information related to the expressway symbol shall be.
+  utter_chevron_shall_be_4_s_w_wide_as:
+  - text: This sign provides information related to chevron shall be 4 s w wide as.
+  utter_gantry_mounted_sign_ahead_of_a:
+  - text: This sign provides information related to gantry mounted sign ahead of a.
+  utter_the_flyover_symbol_and_other_d:
+  - text: This sign provides information related to the flyover symbol and other d.
+  utter_definition__supplementary_plat:
+  - text: This sign provides information related to definition  supplementary plat.
+  utter_the_border_shall_be_1_s_w:
+  - text: This sign provides information related to the border shall be 1 s w.
+  utter_writings_shall_be_in_upper_cas:
+  - text: This sign provides information related to writings shall be in upper cas.
+  utter_for_definition_and_supplementa:
+  - text: This sign provides information related to for definition and supplementa.
+  utter_font_height_shall_be_50_mm_to:
+  - text: This sign provides information related to font height shall be 50 mm to.
+  utter_use_of_symbols_and_icons_for_d:
+  - text: This sign provides information related to use of symbols and icons for d.
+  utter_the_icons_used_shall_be_having:
+  - text: This sign provides information related to the icons used shall be having.
+  utter_tourism_related_signs__plate_i:
+  - text: This sign provides information related to tourism related signs  plate i.
+  utter_the_photographs_used_for_bound:
+  - text: This sign provides information related to the photographs used for bound.
+  utter_the_pedestrian_oriented_direct:
+  - text: This sign provides information related to the pedestrian oriented direct.
+  utter_signs_related_to_urban_scenari:
+  - text: This sign provides information related to signs related to urban scenari.
+  utter_mm__for_other_direction_signs_:
+  - text: This sign provides information related to mm  for other direction signs
+      .
+  utter_toll_plaza_related_signs__plat:
+  - text: This sign provides information related to toll plaza related signs  plat.
+  utter_the_fastag_logo_shall_have_a_m:
+  - text: This sign provides information related to the fastag logo shall have a m.
+  utter_annexure___iv:
+  - text: This sign provides information related to annexure   iv.
+  utter__section_17_:
+  - text: This sign provides information related to  section 17 .
+  utter_light_refreshment:
+  - text: This sign provides information related to light refreshment.
+  utter_filling_station_fuel_pump_:
+  - text: This sign provides information related to filling station fuel pump .
+  utter_emergency_sos_facility:
+  - text: This sign provides information related to emergency sos facility.
+  utter_repair_facility:
+  - text: This sign provides information related to repair facility.
+  utter_intermediate_public_transport_:
+  - text: This sign provides information related to intermediate public transport
+      .
+  utter_guide_sign_on_etc_lane:
+  - text: This sign provides information related to guide sign on etc lane.
+  utter_emergency_exit_right:
+  - text: This sign provides information related to emergency exit right.
+  utter_emergency_exit_left:
+  - text: This sign provides information related to emergency exit left.
+  utter_pedestrian_crossing_informator:
+  - text: This sign provides information related to pedestrian crossing informator.
+  utter_speed_breaker_informatory_sign:
+  - text: This sign provides information related to speed breaker informatory sign.
+  utter_parking_signs_and_flood_gauge:
+  - text: This sign provides information related to parking signs and flood gauge.
+  utter__section_18_:
+  - text: This sign provides information related to  section 18 .
+  utter_parking:
+  - text: This sign provides information related to parking.
+  utter_car_parking:
+  - text: This sign provides information related to car parking.
+  utter_taxi_parking:
+  - text: This sign provides information related to taxi parking.
+  utter_parking_restriction_sign_for_t:
+  - text: This sign provides information related to parking restriction sign for t.
+  utter_signs_for_disabled_persons:
+  - text: This sign provides information related to signs for disabled persons.
+  utter__section_19_:
+  - text: This sign provides information related to  section 19 .
+  utter_international_symbol_of_access:
+  - text: This sign provides information related to international symbol of access.
+  utter_parking_areas:
+  - text: This sign provides information related to parking areas.
+  utter_telephone_facilities:
+  - text: This sign provides information related to telephone facilities.
+  utter_toilet_facilities:
+  - text: This sign provides information related to toilet facilities.
+  utter_way_finding:
+  - text: This sign provides information related to way finding.
+  utter__section_20_:
+  - text: This sign provides information related to  section 20 .
+  utter_red_light_violation_penalty:
+  - text: This sign provides information related to red light violation penalty.
+  utter_stop_sign_violation_penalty_in:
+  - text: This sign provides information related to stop sign violation penalty in.
+  utter_vehicle_category_wise_lane_ded:
+  - text: This sign provides information related to vehicle category wise lane ded.
+  utter_tow_away_zone:
+  - text: This sign provides information related to tow away zone.
+  utter__section_22_:
+  - text: This sign provides information related to  section 22 .
+  utter__section_24_:
+  - text: This sign provides information related to  section 24 .
+  utter_landmark_identification_sign:
+  - text: This sign provides information related to landmark identification sign.
+  utter_street_name_board:
+  - text: This sign provides information related to street name board.
+  utter__section_25_:
+  - text: This sign provides information related to  section 25 .
+  utter_toll_plaza_ahead_overhead_cant:
+  - text: This sign provides information related to toll plaza ahead overhead cant.
+  utter_toll_plaza_lane_information_ov:
+  - text: This sign provides information related to toll plaza lane information ov.
+  utter_toll_plaza_canopy_sign:
+  - text: This sign provides information related to toll plaza canopy sign.
+  utter_for_fast_tag_lanes___at_the_to:
+  - text: This sign provides information related to for fast tag lanes   at the to.
+  utter_annexure_v:
+  - text: This sign provides information related to annexure v.
+  utter_fig_v:
+  - text: This sign provides information related to fig v.
+  utter______:
+  - text: This sign provides information related to      .
+  utter_mumbai:
+  - text: This sign provides information related to mumbai.
+  utter_vadodara:
+  - text: This sign provides information related to vadodara.
+  utter_bardoli:
+  - text: This sign provides information related to bardoli.
+  utter_give:
+  - text: This sign provides information related to give.
+  utter_way:
+  - text: This sign provides information related to way.
+  utter_transverse_bar_marking_or_rumb:
+  - text: This sign provides information related to transverse bar marking or rumb.
+  utter_gwalior:
+  - text: This sign provides information related to gwalior.
+  utter_etawah:
+  - text: This sign provides information related to etawah.
+  utter__:
+  - text: This sign provides information related to  .
+  utter_etawah___gwalior:
+  - text: This sign provides information related to etawah   gwalior.
+  utter_____:
+  - text: This sign provides information related to     .
+  utter_jhansi:
+  - text: This sign provides information related to jhansi.
+  utter_start_of_curve:
+  - text: This sign provides information related to start of curve.
+  utter_a_a:
+  - text: This sign provides information related to a a.
+  utter__for_traffic_coming_from_delhi:
+  - text: This sign provides information related to  for traffic coming from delhi.
+  utter____f_________:
+  - text: This sign provides information related to    f         .
+  utter_aurobindo_marg:
+  - text: This sign provides information related to aurobindo marg.
+  utter_mehrauli:
+  - text: This sign provides information related to mehrauli.
+  utter_aiims:
+  - text: This sign provides information related to aiims.
+  utter_aiims__mehrauli:
+  - text: This sign provides information related to aiims  mehrauli.
+  utter________:
+  - text: This sign provides information related to        .
+  utter_nehru_palace:
+  - text: This sign provides information related to nehru palace.
+  utter__________:
+  - text: This sign provides information related to          .
+  utter_greater_noida:
+  - text: This sign provides information related to greater noida.
+  utter_280_mm:
+  - text: This sign provides information related to 280 mm.
+  utter_200_mm:
+  - text: This sign provides information related to 200 mm.
+  utter_toll_exempted_vehicles_and_eme:
+  - text: This sign provides information related to toll exempted vehicles and eme.
+  utter_elevation_of_toll_booth:
+  - text: This sign provides information related to elevation of toll booth.
+  utter__9__ii_25_b:
+  - text: This sign provides information related to  9  ii 25 b.
+  utter_10:
+  - text: This sign provides information related to 10.
+  utter_______:
+  - text: This sign provides information related to       .
+  utter__9_ii_25_a:
+  - text: This sign provides information related to  9 ii 25 a.
+  utter__9_ii_25_b:
+  - text: This sign provides information related to  9 ii 25 b.
+  utter_10_vadodara:
+  - text: This sign provides information related to 10 vadodara.
+  utter__9__ii_25_a_b:
+  - text: This sign provides information related to  9  ii 25 a b.
+  utter_____________:
+  - text: This sign provides information related to             .
+  utter_km:
+  - text: This sign provides information related to km.
+  utter_mumbai__vadodara:
+  - text: This sign provides information related to mumbai  vadodara.
+  utter_annexure___vi:
+  - text: This sign provides information related to annexure   vi.
+  utter_determination_of__x__height_fo:
+  - text: This sign provides information related to determination of  x  height fo.
+  utter_from_the_figure_vi:
+  - text: This sign provides information related to from the figure vi.
+  utter_x_5:
+  - text: This sign provides information related to x 5.
+  utter_reading_time___2____n_3__secon:
+  - text: This sign provides information related to reading time   2    n 3  secon.
+  utter_figure_vi:
+  - text: This sign provides information related to figure vi.
+  utter_table_vi:
+  - text: This sign provides information related to table vi.
+  utter__consistent_with_values_given:
+  - text: This sign provides information related to  consistent with values given.
+  utter_format_for_recording_sign_inst:
+  - text: This sign provides information related to format for recording sign inst.
+  utter_maintenance_purpose:
+  - text: This sign provides information related to maintenance purpose.
+  utter_size_of_typical_qr_code__51_mm:
+  - text: This sign provides information related to size of typical qr code  51 mm.
+  utter_recording_format_for_periodic:
+  - text: This sign provides information related to recording format for periodic.
+  utter_retro_reflectivity:
+  - text: This sign provides information related to retro reflectivity.
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

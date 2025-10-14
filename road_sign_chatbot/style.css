@@ -1,0 +1,204 @@
+/* General body */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #a1c4fd, #c2e9fb);
+    margin: 0;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+/* Open Chat Button */
+.open-chat-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 25px;
+    cursor: pointer;
+    font-size: 16px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+}
+
+.open-chat-btn:hover {
+    background: #0056b3;
+}
+
+/* Chat Widget */
+.chat-widget {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 350px;
+    max-height: 500px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    transform: translateY(100%);
+    transition: transform 0.4s ease;
+    z-index: 9999;
+}
+
+/* Show chat */
+.chat-widget.open {
+    transform: translateY(0);
+}
+
+/* Chat Header */
+.chat-header {
+    background: #007bff;
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    position: relative;
+}
+
+.close-btn {
+    position: absolute;
+    right: 15px;
+    top: 12px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Chat Box */
+.chat-box {
+    flex: 1;
+    padding: 15px;
+    overflow-y: auto;
+    background: #f0f0f0;
+}
+
+/* Messages */
+.message {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 20px;
+    max-width: 75%;
+    word-wrap: break-word;
+    animation: fadeIn 0.3s ease forwards;
+}
+
+.user {
+    background: #d0e7ff;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;
+    justify-content: flex-end;
+}
+
+.bot {
+    background: #e0e0e0;
+    align-self: flex-start;
+    border-bottom-left-radius: 0;
+    justify-content: flex-start;
+}
+
+/* Slide-in message animations */
+.message.user {
+    background: #d0e7ff;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;
+    justify-content: flex-end;
+    animation: slideRight 0.4s ease forwards;
+}
+
+.message.bot {
+    background: #e0e0e0;
+    align-self: flex-start;
+    border-bottom-left-radius: 0;
+    justify-content: flex-start;
+    animation: slideLeft 0.4s ease forwards;
+}
+
+.message img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user img {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+/* Input Area */
+.input-area {
+    display: flex;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 15px 0 0 15px;
+    outline: none;
+}
+
+#send-btn {
+    padding: 10px 20px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 0 15px 15px 0;
+}
+
+#send-btn:hover {
+    background: #0056b3;
+}
+
+/* Typing animation */
+.typing {
+    width: 35px;
+    height: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.typing span {
+    display: block;
+    width: 6px;
+    height: 6px;
+    background: #555;
+    border-radius: 50%;
+    animation: bounce 0.6s infinite alternate;
+}
+
+.typing span:nth-child(2) {
+    animation-delay: 0.2s;
+}
+.typing span:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+    to { transform: translateY(-5px); }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideRight {
+    from { opacity: 0; transform: translateX(50px); }
+    to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideLeft {
+    from { opacity: 0; transform: translateX(-50px); }
+    to { opacity: 1; transform: translateX(0); }
+}
